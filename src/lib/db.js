@@ -8,12 +8,16 @@ function createPool() {
     database: process.env.DB_NAME,
     user: process.env.DB_USER,
     password: process.env.DB_PASSWORD,
+    connectionTimeoutMillis: 5000,
   };
-  const missingVariables = ["DB_HOST", "DB_NAME", "DB_USER", "DB_PASSWORD"].filter(
-    (name) =>
-      process.env[name] === undefined ||
-      (name !== "DB_PASSWORD" && !process.env[name]),
-  );
+  const missingVariables = Object.entries({
+    DB_HOST: config.host,
+    DB_NAME: config.database,
+    DB_USER: config.user,
+    DB_PASSWORD: config.password,
+  })
+    .filter(([, value]) => !value)
+    .map(([name]) => name);
 
   if (!process.env.DB_PORT) {
     missingVariables.push("DB_PORT");
