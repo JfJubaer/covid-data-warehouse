@@ -12,7 +12,8 @@ ALTER TABLE staging.stg_hospitals
     ADD COLUMN IF NOT EXISTS source_headers TEXT[],
     ADD COLUMN IF NOT EXISTS source_values TEXT[],
     ADD COLUMN IF NOT EXISTS icu_capacity BIGINT,
-    ADD COLUMN IF NOT EXISTS occupied_beds BIGINT;
+    ADD COLUMN IF NOT EXISTS occupied_beds BIGINT,
+    ADD COLUMN IF NOT EXISTS icu_patients BIGINT;
 
 ALTER TABLE staging.stg_vaccinations
     ADD COLUMN IF NOT EXISTS source_headers TEXT[],
@@ -31,6 +32,9 @@ ALTER TABLE staging.stg_testing
 ALTER TABLE warehouse.dim_hospital
     ADD COLUMN IF NOT EXISTS icu_capacity BIGINT
         CHECK (icu_capacity IS NULL OR icu_capacity >= 0);
+
+ALTER TABLE warehouse.fact_covid
+    ADD COLUMN IF NOT EXISTS occupied_beds BIGINT;
 
 CREATE UNIQUE INDEX IF NOT EXISTS dim_hospital_natural_key
     ON warehouse.dim_hospital (
@@ -193,7 +197,6 @@ IMMUTABLE
 PARALLEL SAFE
 AS $$
     SELECT CASE regexp_replace(lower(btrim(p_value)), '[^a-z0-9]', '', 'g')
-        WHEN 'coxsBazar' THEN 'Cox''s Bazar'
         WHEN 'coxsbazar' THEN 'Cox''s Bazar'
         ELSE initcap(regexp_replace(btrim(p_value), '\s+', ' ', 'g'))
     END

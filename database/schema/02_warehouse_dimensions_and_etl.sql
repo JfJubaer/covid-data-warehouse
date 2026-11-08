@@ -27,6 +27,7 @@ CREATE TABLE IF NOT EXISTS warehouse.dim_hospital (
     hospital_capacity BIGINT CHECK (
         hospital_capacity IS NULL OR hospital_capacity >= 0
     ),
+    icu_capacity BIGINT CHECK (icu_capacity IS NULL OR icu_capacity >= 0),
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 

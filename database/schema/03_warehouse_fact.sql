@@ -13,6 +13,7 @@ CREATE TABLE IF NOT EXISTS warehouse.fact_covid (
     tests BIGINT,
     vaccinations BIGINT,
     icu_patients BIGINT,
+    occupied_beds BIGINT,
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP,
     CONSTRAINT fact_covid_daily_location_hospital
         UNIQUE NULLS NOT DISTINCT (date_id, location_id, hospital_id)
