@@ -1,0 +1,724 @@
+﻿report_date,country,division,district,population,test_type,tests,tests_positive,tests_negative,tests_invalid
+01-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,PCR,102,4,98,0
+2025-01-01,Bangladesh,Dhaka,Dhaka,10200000,Antigen,147,5,141,1
+2025-01-01,Bangladesh,Dhaka,Gazipur,5200000,PCR,159,6,152,1
+01/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Antigen,215,8,205,2
+01/01/2025,Bangladesh,Chattogram,Chattogram,5000000,PCR,179,7,170,2
+"Jan 01, 2025",Bangladesh,Chattogram,Chattogram ,5000000,Antigen,248,10,235,3
+"Jan 01, 2025",Bangladesh,Chattogram,Cox's Bazar ,2800000,PCR,179,7,169,3
+01-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,235,10,221,4
+01-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,242,10,228,4
+2025-01-01,Bangladesh, Rajshahi,Rajshahi,2600000,Antigen,241,10,231,0
+2025-01-01,Bangladesh, Khulna,Khulna,2500000,PCR,266,12,254,0
+01/01/2025,Bangladesh,Khulna,Khulna,2500000,Antigen,318,14,303,1
+01/01/2025,Bangladesh,Sylhet,Sylhet,1900000,PCR,263,12,250,1
+"Jan 01, 2025",Bangladesh,Sylhet,Sylhet,1900000,Antigen,346,16,328,2
+"Jan 01, 2025",Bangladesh,Barishal,Barishal,1200000,PCR,313,15,296,2
+01-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Antigen,368,18,347,3
+2025-01-02,Bangladesh,Dhaka,Dhaka,10200000,PCR,124,4,119,1
+02/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Antigen,165,6,157,2
+02/01/2025,Bangladesh,Dhaka,Gazipur,5200000,PCR,191,7,182,2
+"Jan 02, 2025",Bangladesh,Dhaka,Gazipur ,5200000,Antigen,185,7,175,3
+"Jan 02, 2025",Bangladesh,Chattogram,Chattogram ,5000000,PCR,218,9,206,3
+02-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Antigen,204,8,192,4
+02-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,249,10,235,4
+2025-01-02,Bangladesh, Chattogram,Cox's Bazar,2800000,Antigen,267,11,256,0
+2025-01-02,Bangladesh, Rajshahi,Rajshahi,2600000,PCR,255,11,244,0
+02/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,269,12,256,1
+02/01/2025,Bangladesh,Khulna,Khulna,2500000,PCR,263,12,250,1
+"Jan 02, 2025",Bangladesh,Khulna,Khulna,2500000,Antigen,297,14,281,2
+"Jan 02, 2025",Bangladesh,Sylhet,Sylhet,1900000,PCR,323,16,305,2
+02-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Antigen,362,17,342,3
+02-Jan-2025,Bangladesh,Barishal,Barishal,1200000,PCR,352,18,331,3
+2025-01-02,Bangladesh,Barishal,Barishal,1200000,Antigen,361,18,339,4
+03/01/2025,Bangladesh,Dhaka,Dhaka,10200000,PCR,129,5,122,2
+"Jan 03, 2025",Bangladesh,Dhaka,Dhaka ,10200000,Antigen,215,8,204,3
+"Jan 03, 2025",Bangladesh,Dhaka,Gazipur ,5200000,PCR,157,6,148,3
+03-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Antigen,237,9,224,4
+03-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,PCR,237,10,223,4
+2025-01-03,Bangladesh, Chattogram,Chattogram,5000000,Antigen,255,10,245,0
+2025-01-03,Bangladesh, Chattogram,Cox's Bazar,2800000,PCR,264,11,253,0
+03/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,302,13,288,1
+03/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,254,11,242,1
+"Jan 03, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,302,14,286,2
+"Jan 03, 2025",Bangladesh,Khulna,Khulna,2500000,PCR,275,13,260,2
+03-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Antigen,343,16,324,3
+03-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,PCR,292,14,275,3
+2025-01-03,Bangladesh,Sylhet,Sylhet,1900000,Antigen,378,19,355,4
+2025-01-03,Bangladesh,Barishal,Barishal,1200000,PCR,362,18,340,4
+03/01/2025,Bangladesh,Barishal,Barishal,1200000,Antigen,350,18,332,0
+"Jan 04, 2025",Bangladesh,Dhaka,Dhaka ,10200000,PCR,170,6,161,3
+04-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Antigen,220,8,208,4
+04-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,PCR,200,8,188,4
+2025-01-04,Bangladesh, Dhaka,Gazipur,5200000,Antigen,212,8,204,0
+2025-01-04,Bangladesh, Chattogram,Chattogram,5000000,PCR,231,10,221,0
+04/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Antigen,235,10,224,1
+04/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,217,10,206,1
+"Jan 04, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,274,12,260,2
+"Jan 04, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,PCR,258,12,244,2
+04-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,316,15,298,3
+04-Jan-2025,Bangladesh,Khulna,Khulna,2500000,PCR,315,15,297,3
+2025-01-04,Bangladesh,Khulna,Khulna,2500000,Antigen,359,17,338,4
+2025-01-04,Bangladesh,Sylhet,Sylhet,1900000,PCR,353,18,331,4
+04/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Antigen,383,19,364,0
+04/01/2025,Bangladesh,Barishal,Barishal,1200000,PCR,363,19,344,0
+"Jan 04, 2025",Bangladesh,Barishal,Barishal,1200000,Antigen,422,22,399,1
+05-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,PCR,191,7,180,4
+2025-01-05,Bangladesh, Dhaka,Dhaka,10200000,Antigen,225,9,216,0
+2025-01-05,Bangladesh, Dhaka,Gazipur,5200000,PCR,231,9,222,0
+05/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Antigen,266,11,254,1
+05/01/2025,Bangladesh,Chattogram,Chattogram,,PCR,218,9,208,1
+"Jan 05, 2025",Bangladesh,Chattogram,Chattogram,5000000,Antigen,257,11,244,2
+"Jan 05, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,269,12,255,2
+05-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,298,13,282,3
+05-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,258,12,243,3
+2025-01-05,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,344,16,324,4
+2025-01-05,Bangladesh,Khulna,Khulna,2500000,PCR,320,16,300,4
+05/01/2025,Bangladesh,Khulna,Khulna,2500000,Antigen,382,19,363,0
+05/01/2025,Bangladesh,Sylhet,Sylhet,1900000,PCR,364,19,345,0
+"Jan 05, 2025",Bangladesh,Sylhet,Sylhet,1900000,Antigen,352,18,333,1
+"Jan 05, 2025",Bangladesh,Barishal,Barishal,1200000,PCR,342,18,323,1
+05-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Antigen,434,23,409,2
+2025-01-06,Bangladesh, Dhaka,Dhaka,10200000,PCR,186,7,179,0
+06/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Antigen,203,8,194,1
+06/01/2025,Bangladesh,Dhaka,Gazipur,5200000,PCR,245,10,234,1
+"Jan 06, 2025",Bangladesh,Dhaka,Gazipur,5200000,Antigen,245,10,233,2
+"Jan 06, 2025",Bangladesh,Chattogram,Chattogram,5000000,PCR,260,11,247,2
+06-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Antigen,256,11,242,3
+06-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,277,13,261,3
+2025-01-06,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,314,14,296,4
+2025-01-06,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,305,15,286,4
+06/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,349,17,332,0
+06/01/2025,Bangladesh,Khulna,Khulna,2500000,PCR,339,17,322,0
+"Jan 06, 2025",Bangladesh,Khulna,Khulna,2500000,Antigen,358,18,339,1
+"Jan 06, 2025",Bangladesh,Sylhet,Sylhet,1900000,PCR,332,17,314,1
+06-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Antigen,379,20,357,2
+06-Jan-2025,Bangladesh,Barishal,Barishal,1200000,PCR,369,20,347,2
+2025-01-06,Bangladesh,Barishal,Barishal,1200000,Antigen,451,24,424,3
+07/01/2025,Bangladesh,Dhaka,Dhaka,10200000,PCR,217,9,207,1
+"Jan 07, 2025",Bangladesh,Dhaka,Dhaka,10200000,Antigen,258,11,245,2
+"Jan 07, 2025",Bangladesh,Dhaka,Gazipur,5200000,PCR,244,10,232,2
+07-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Antigen,252,11,238,3
+07-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,PCR,286,13,270,3
+2025-01-07,Bangladesh,Chattogram,Chattogram,5000000,Antigen,322,14,304,4
+2025-01-07,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,305,14,287,4
+07/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,322,15,307,0
+07/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,330,16,314,0
+"Jan 07, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,360,18,341,1
+"Jan 07, 2025",Bangladesh,Khulna,Khulna,2500000,PCR,325,17,307,1
+07-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Antigen,374,19,353,2
+07-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,PCR,378,20,356,2
+2025-01-07,Bangladesh,Sylhet,Sylhet,1900000,Antigen,420,22,395,3
+2025-01-07,Bangladesh,Barishal,Barishal,1200000,PCR,387,21,363,3
+07/01/2025,Bangladesh,Barishal,Barishal,1200000,Antigen,450,25,421,4
+"Jan 08, 2025",Bangladesh,Dhaka,Dhaka,10200000,PCR,237,8,227,2
+08-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Antigen,229,8,218,3
+08-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,PCR,225,8,214,3
+2025-01-08,Bangladesh,Dhaka,Gazipur,5200000,Antigen,287,11,272,4
+2025-01-08,Bangladesh,Chattogram,Chattogram,5000000,PCR,246,10,232,4
+08/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Antigen,311,12,299,0
+08/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,290,12,278,0
+"Jan 08, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,351,14,336,1
+"Jan 08, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,PCR,295,13,281,1
+08-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,345,15,328,2
+08-Jan-2025,Bangladesh,Khulna,Khulna,2500000,PCR,384,17,365,2
+2025-01-08,Bangladesh,Khulna,Khulna,2500000,Antigen,368,17,348,3
+2025-01-08,Bangladesh,Sylhet,Sylhet,1900000,PCR,353,17,333,3
+08/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Antigen,427,20,403,4
+08/01/2025,Bangladesh,Barishal,Barishal,1200000,PCR,400,20,376,4
+"Jan 08, 2025",Bangladesh,Barishal,Barishal,1200000,Antigen,423,21,402,0
+09-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,PCR,242,9,230,3
+2025-01-09,Bangladesh,Dhaka,Dhaka,10200000,Antigen,294,11,279,4
+2025-01-09,Bangladesh,Dhaka,Gazipur,5200000,PCR,235,9,222,4
+09/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Antigen,284,11,273,0
+09/01/2025,Bangladesh,Chattogram,Chattogram,5000000,PCR,263,11,252,0
+"Jan 09, 2025",Bangladesh,Chattogram,Chattogram,5000000,Antigen,307,12,294,1
+"Jan 09, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,284,12,271,1
+09-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,366,15,349,2
+09-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,352,15,335,2
+2025-01-09,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,410,18,389,3
+2025-01-09,Bangladesh,Khulna,Khulna,2500000,PCR,365,17,345,3
+09/01/2025,Bangladesh,Khulna,Khulna,2500000,Antigen,430,20,406,4
+09/01/2025,Bangladesh,Sylhet,Sylhet,1900000,PCR,390,19,367,4
+"Jan 09, 2025",Bangladesh,Sylhet,Sylhet,1900000,Antigen,421,20,401,0
+"Jan 09, 2025",Bangladesh,Barishal,Barishal,1200000,PCR,393,20,373,0
+09-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Antigen,483,24,458,1
+2025-01-10,Bangladesh,Dhaka,Dhaka,10200000,PCR,227,8,215,4
+10/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Antigen,N/A,12,299,0
+10/01/2025,Bangladesh,Dhaka,Gazipur,5200000,PCR,287,11,276,0
+"Jan 10, 2025",Bangladesh,Dhaka,Gazipur,5200000,Antigen,282,11,270,1
+"Jan 10, 2025",Bangladesh,Chattogram,Chattogram,5000000,PCR,320,13,306,1
+10-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Antigen,364,15,347,2
+10-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,316,14,300,2
+2025-01-10,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,372,16,353,3
+2025-01-10,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,328,15,310,3
+10/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,414,19,391,4
+10/01/2025,Bangladesh,Khulna,Khulna,2500000,PCR,379,18,357,4
+"Jan 10, 2025",Bangladesh,Khulna,Khulna,2500000,Antigen,440,21,419,0
+"Jan 10, 2025",Bangladesh,Sylhet,Sylhet,1900000,PCR,397,19,378,0
+10-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Antigen,425,21,403,1
+10-Jan-2025,Bangladesh,Barishal,Barishal,1200000,PCR,452,23,428,1
+2025-01-10,Bangladesh,Barishal,Barishal,1200000,Antigen,502,26,474,2
+11/01/2025,Bangladesh,Dhaka,Dhaka,10200000,PCR,142,5,137,0
+"Jan 11, 2025",Bangladesh,Dhaka,Dhaka,10200000,Antigen,154,6,147,1
+"Jan 11, 2025",Bangladesh,Dhaka,Gazipur,5200000,PCR,160,6,153,1
+11-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Antigen,199,8,189,2
+11-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,PCR,157,7,148,2
+2025-01-11,Bangladesh,Chattogram,Chattogram,5000000,Antigen,250,11,236,3
+2025-01-11,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,180,8,169,3
+11/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,253,11,238,4
+11/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,214,10,200,4
+"Jan 11, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,295,14,281,0
+"Jan 11, 2025",Bangladesh,Khulna,Khulna,2500000,PCR,262,13,249,0
+11-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Antigen,311,15,295,1
+11-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,PCR,278,14,263,1
+2025-01-11,Bangladesh,Sylhet,Sylhet,1900000,Antigen,345,17,326,2
+2025-01-11,Bangladesh,Barishal,Barishal,1200000,PCR,291,15,274,2
+11/01/2025,Bangladesh,Barishal,Barishal,1200000,Antigen,351,18,330,3
+"Jan 12, 2025",Bangladesh,Dhaka,Dhaka,10200000,PCR,168,7,160,1
+12-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Antigen,172,7,163,2
+12-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,PCR,164,7,155,2
+2025-01-12,Bangladesh,Dhaka,Gazipur,5200000,Antigen,188,8,177,3
+2025-01-12,Bangladesh,Chattogram,Chattogram,5000000,PCR,204,9,192,3
+12/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Antigen,232,10,218,4
+12/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,212,10,198,4
+"Jan 12, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,264,12,252,0
+"Jan 12, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,PCR,246,12,234,0
+12-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,274,13,260,1
+12-Jan-2025,Bangladesh,Khulna,Khulna,2500000,PCR,273,13,259,1
+2025-01-12,Bangladesh,Khulna,Khulna,2500000,Antigen,340,17,321,2
+2025-01-12,Bangladesh,Sylhet,Sylhet,1900000,PCR,273,14,257,2
+12/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Antigen,355,18,334,3
+12/01/2025,Bangladesh,Barishal,Barishal,1200000,PCR,354,19,332,3
+"Jan 12, 2025",Bangladesh,Barishal,Barishal,1200000,Antigen,386,20,362,4
+13-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,PCR,157,6,149,2
+2025-01-13,Bangladesh,Dhaka,Dhaka,10200000,Antigen,214,9,202,3
+2025-01-13,Bangladesh,Dhaka,Gazipur,5200000,PCR,150,6,141,3
+13/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Antigen,231,10,217,4
+13/01/2025,Bangladesh,Chattogram,Chattogram,5000000,PCR,228,10,214,4
+"Jan 13, 2025",Bangladesh,Chattogram,Chattogram,5000000,Antigen,235,10,225,0
+"Jan 13, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,226,10,216,0
+13-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,287,13,273,1
+13-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,270,13,256,1
+2025-01-13,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,270,13,255,2
+2025-01-13,Bangladesh,Khulna,Khulna,2500000,PCR,310,16,292,2
+13/01/2025,Bangladesh,Khulna,Khulna,2500000,Antigen,342,17,322,3
+13/01/2025,Bangladesh,Sylhet,Sylhet,1900000,PCR,334,17,314,3
+"Jan 13, 2025",Bangladesh,Sylhet,Sylhet,1900000,Antigen,326,17,305,4
+"Jan 13, 2025",Bangladesh,Barishal,Barishal,1200000,PCR,364,20,340,4
+13-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Antigen,383,21,362,0
+2025-01-14,Bangladesh,Dhaka,Dhaka,10200000,PCR,170,7,160,3
+14/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Antigen,220,9,207,4
+14/01/2025,Bangladesh,Dhaka,Gazipur,5200000,PCR,221,10,207,4
+"Jan 14, 2025",Bangladesh,Dhaka,Gazipur,5200000,Antigen,229,10,219,0
+"Jan 14, 2025",Bangladesh,Chattogram,Chattogram,5000000,PCR,201,9,192,0
+14-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Antigen,238,11,226,1
+14-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,225,11,213,1
+2025-01-14,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,260,12,246,2
+2025-01-14,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,289,14,273,2
+14/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,297,15,279,3
+14/01/2025,Bangladesh,Khulna,Khulna,2500000,PCR,281,14,264,3
+"Jan 14, 2025",Bangladesh,Khulna,Khulna,2500000,Antigen,331,17,310,4
+"Jan 14, 2025",Bangladesh,Sylhet,Sylhet,1900000,PCR,333,18,311,4
+14-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Antigen,344,18,326,0
+14-Jan-2025,Bangladesh,Barishal,Barishal,1200000,PCR,355,20,335,0
+2025-01-14,Bangladesh,Barishal,Barishal,1200000,Antigen,418,23,394,1
+15/01/2025,Bangladesh,Dhaka,Dhaka,10200000,PCR,173,6,163,4
+"Jan 15, 2025",Bangladesh,Dhaka,Dhaka,10200000,Antigen,229,8,221,0
+"Jan 15, 2025",Bangladesh,Dhaka,Gazipur,5200000,PCR,188,7,181,0
+15-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Antigen,238,9,228,1
+15-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,PCR,263,10,252,1
+2025-01-15,Bangladesh,Chattogram,Chattogram,5000000,Antigen,272,11,259,2
+2025-01-15,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,257,11,244,2
+15/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,276,11,262,3
+15/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,286,12,271,3
+"Jan 15, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,336,14,318,4
+"Jan 15, 2025",Bangladesh,Khulna,Khulna,2500000,PCR,293,13,276,4
+15-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Antigen,368,17,351,0
+15-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,PCR,349,16,333,0
+2025-01-15,Bangladesh,Sylhet,Sylhet,1900000,Antigen,390,18,371,1
+2025-01-15,Bangladesh,Barishal,Barishal,1200000,PCR,337,17,319,1
+15/01/2025,Bangladesh,Barishal,Barishal,1200000,Antigen,382,19,361,2
+"Jan 16, 2025",Bangladesh,Dhaka,Dhaka,10200000,PCR,187,7,180,0
+16-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Antigen,246,9,236,1
+16-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,PCR,219,8,210,1
+2025-01-16,Bangladesh,Dhaka,Gazipur,5200000,Antigen,247,9,236,2
+2025-01-16,Bangladesh,Chattogram,Chattogram,5000000,PCR,275,11,262,2
+16/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Antigen,301,12,286,3
+16/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,272,11,258,3
+"Jan 16, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,296,12,280,4
+"Jan 16, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,PCR,309,14,291,4
+16-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,336,15,321,0
+16-Jan-2025,Bangladesh,Khulna,Khulna,2500000,PCR,311,14,297,0
+2025-01-16,Bangladesh,Khulna,Khulna,2500000,Antigen,395,18,376,1
+2025-01-16,Bangladesh,Sylhet,Sylhet,1900000,PCR,361,17,343,1
+16/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Antigen,409,20,387,2
+16/01/2025,Bangladesh,Barishal,Barishal,1200000,PCR,410,21,387,2
+"Jan 16, 2025",Bangladesh,Barishal,Barishal,1200000,Antigen,414,21,390,3
+17-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,PCR,179,7,171,1
+2025-01-17,Bangladesh,Dhaka,Dhaka,10200000,Antigen,252,9,241,2
+2025-01-17,Bangladesh,Dhaka,Gazipur,5200000,PCR,234,9,223,2
+17/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Antigen,279,11,265,3
+17/01/2025,Bangladesh,Chattogram,Chattogram,5000000,PCR,238,10,225,3
+"Jan 17, 2025",Bangladesh,Chattogram,Chattogram,5000000,Antigen,286,12,270,4
+"Jan 17, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,306,13,289,4
+17-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,316,14,302,0
+17-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,298,13,285,0
+2025-01-17,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,358,16,341,1
+2025-01-17,Bangladesh,Khulna,Khulna,2500000,PCR,339,16,322,1
+17/01/2025,Bangladesh,Khulna,Khulna,2500000,Antigen,407,19,386,2
+17/01/2025,Bangladesh,Sylhet,Sylhet,1900000,PCR,397,19,376,2
+"Jan 17, 2025",Bangladesh,Sylhet,Sylhet,1900000,Antigen,379,19,357,3
+"Jan 17, 2025",Bangladesh,Barishal,Barishal,1200000,PCR,426,22,401,3
+17-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Antigen,406,21,381,4
+2025-01-18,Bangladesh,Dhaka,Dhaka,10200000,PCR,211,8,201,2
+18/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Antigen,269,10,256,3
+18/01/2025,Bangladesh,Dhaka,Gazipur,5200000,PCR,224,9,212,3
+"Jan 18, 2025",Bangladesh,Dhaka,Gazipur,5200000,Antigen,293,12,277,4
+"Jan 18, 2025",Bangladesh,Chattogram,Chattogram,5000000,PCR,247,10,233,4
+18-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Antigen,323,14,309,0
+18-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,269,12,257,0
+2025-01-18,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,334,15,318,1
+2025-01-18,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,297,-7,282,1
+18/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,373,17,354,2
+18/01/2025,Bangladesh,Khulna,Khulna,2500000,PCR,346,17,327,2
+"Jan 18, 2025",Bangladesh,Khulna,Khulna,2500000,Antigen,422,20,399,3
+"Jan 18, 2025",Bangladesh,Sylhet,Sylhet,1900000,PCR,360,18,339,3
+18-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Antigen,451,23,424,4
+18-Jan-2025,Bangladesh,Barishal,Barishal,1200000,PCR,436,23,409,4
+2025-01-18,Bangladesh,Barishal,Barishal,1200000,Antigen,442,23,419,0
+19/01/2025,Bangladesh,Dhaka,Dhaka,10200000,PCR,202,8,191,3
+"Jan 19, 2025",Bangladesh,Dhaka,Dhaka,10200000,Antigen,302,12,286,4
+"Jan 19, 2025",Bangladesh,Dhaka,Gazipur,5200000,PCR,232,10,218,4
+19-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Antigen,292,12,280,0
+19-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,PCR,313,13,300,0
+2025-01-19,Bangladesh,Chattogram,Chattogram,5000000,Antigen,318,14,303,1
+2025-01-19,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,332,15,316,1
+19/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,329,15,312,2
+19/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,348,16,330,2
+"Jan 19, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,402,19,380,3
+"Jan 19, 2025",Bangladesh,Khulna,Khulna,2500000,PCR,387,19,365,3
+19-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Antigen,387,19,364,4
+19-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,PCR,377,19,354,4
+2025-01-19,Bangladesh,Sylhet,Sylhet,1900000,Antigen,419,21,398,0
+2025-01-19,Bangladesh,Barishal,Barishal,1200000,PCR,414,22,392,0
+19/01/2025,Bangladesh,Barishal,Barishal,1200000,Antigen,437,23,413,1
+"Jan 20, 2025",Bangladesh,Dhaka,Dhaka,10200000,PCR,273,11,258,4
+20-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Antigen,276,11,265,0
+20-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,PCR,284,12,272,0
+2025-01-20,Bangladesh,Dhaka,Gazipur,5200000,Antigen,291,12,278,1
+2025-01-20,Bangladesh,Chattogram,Chattogram,5000000,PCR,321,14,306,1
+20/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Antigen,321,14,305,2
+20/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,322,15,305,2
+"Jan 20, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,358,16,339,3
+"Jan 20, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,PCR,378,18,357,3
+20-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,390,19,367,4
+20-Jan-2025,Bangladesh,Khulna,Khulna,2500000,PCR,386,19,363,4
+2025-01-20,Bangladesh,Khulna,Khulna,2500000,Antigen,411,21,390,0
+2025-01-20,Bangladesh,Sylhet,Sylhet,1900000,PCR,422,22,400,0
+20/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Antigen,455,24,430,1
+20/01/2025,Bangladesh,Barishal,Barishal,1200000,PCR,445,24,420,1
+"Jan 20, 2025",Bangladesh,Barishal,Barishal,1200000,Antigen,500,27,471,2
+21-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,PCR,113,5,108,0
+2025-01-21,Bangladesh,Dhaka,Dhaka,10200000,Antigen,172,7,164,1
+2025-01-21,Bangladesh,Dhaka,Gazipur,5200000,PCR,172,7,164,1
+21/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Antigen,160,7,151,2
+21/01/2025,Bangladesh,Chattogram,Chattogram,5000000,PCR,178,8,168,2
+"Jan 21, 2025",Bangladesh,Chattogram,Chattogram,5000000,Antigen,199,9,187,3
+"Jan 21, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,232,11,218,3
+21-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,268,13,251,4
+21-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,220,11,205,4
+2025-01-21,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,274,13,261,0
+2025-01-21,Bangladesh,Khulna,Khulna,2500000,PCR,263,13,250,0
+21/01/2025,Bangladesh,Khulna,Khulna,2500000,Antigen,279,14,264,1
+21/01/2025,Bangladesh,Sylhet,Sylhet,1900000,PCR,276,15,260,1
+"Jan 21, 2025",Bangladesh,Sylhet,Sylhet,1900000,Antigen,322,17,303,2
+"Jan 21, 2025",Bangladesh,Barishal,Barishal,1200000,PCR,315,17,296,2
+21-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Antigen,387,21,363,3
+2025-01-22,Bangladesh,Dhaka,Dhaka,10200000,PCR,112,4,107,1
+22/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Antigen,159,6,151,2
+22/01/2025,Bangladesh,Dhaka,Gazipur,5200000,PCR,166,6,158,2
+"Jan 22, 2025",Bangladesh,Dhaka,Gazipur,5200000,Antigen,179,7,169,3
+"Jan 22, 2025",Bangladesh,Chattogram,Chattogram,5000000,PCR,164,6,155,3
+22-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Antigen,232,9,219,4
+22-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,209,9,196,4
+2025-01-22,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,251,10,241,0
+2025-01-22,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,222,10,212,0
+22/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,310,13,296,1
+22/01/2025,Bangladesh,Khulna,Khulna,2500000,PCR,243,11,231,1
+"Jan 22, 2025",Bangladesh,Khulna,Khulna,2500000,Antigen,337,15,320,2
+"Jan 22, 2025",Bangladesh,Sylhet,Sylhet,1900000,PCR,329,15,312,2
+22-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Antigen,360,17,340,3
+22-Jan-2025,Bangladesh,Barishal,Barishal,1200000,PCR,350,17,330,3
+2025-01-22,Bangladesh,Barishal,Barishal,1200000,Antigen,381,19,358,4
+23/01/2025,Bangladesh,Dhaka,Dhaka,10200000,PCR,142,5,135,2
+"Jan 23, 2025",Bangladesh,Dhaka,Dhaka,10200000,Antigen,210,8,199,3
+"Jan 23, 2025",Bangladesh,Dhaka,Gazipur,5200000,PCR,152,6,143,3
+23-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Antigen,231,9,218,4
+23-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,PCR,231,9,218,4
+2025-01-23,Bangladesh,Chattogram,Chattogram,5000000,Antigen,265,11,254,0
+2025-01-23,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,219,9,210,0
+23/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,301,13,287,1
+23/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,290,13,276,1
+"Jan 23, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,300,13,285,2
+"Jan 23, 2025",Bangladesh,Khulna,Khulna,2500000,PCR,261,12,247,2
+23-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Antigen,355,16,336,3
+23-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,PCR,296,14,279,3
+2025-01-23,Bangladesh,Sylhet,Sylhet,1900000,Antigen,378,18,356,4
+2025-01-23,Bangladesh,Barishal,Barishal,1200000,PCR,362,18,340,4
+23/01/2025,Bangladesh,Barishal,Barishal,1200000,Antigen,355,18,337,0
+"Jan 24, 2025",Bangladesh,Dhaka,Dhaka,10200000,PCR,160,6,151,3
+24-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Antigen,233,9,220,4
+24-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,PCR,205,8,193,4
+2025-01-24,Bangladesh,Dhaka,Gazipur,5200000,Antigen,227,9,218,0
+2025-01-24,Bangladesh,Chattogram,Chattogram,5000000,PCR,219,9,210,0
+24/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Antigen,237,10,226,1
+24/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,227,10,216,1
+"Jan 24, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,310,13,295,2
+"Jan 24, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,PCR,293,13,278,2
+24-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,312,14,295,3
+24-Jan-2025,Bangladesh,Khulna,Khulna,2500000,PCR,270,13,254,3
+2025-01-24,Bangladesh,Khulna,Khulna,2500000,Antigen,347,16,327,4
+2025-01-24,Bangladesh,Sylhet,Sylhet,1900000,PCR,345,17,324,4
+24/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Antigen,379,19,,0
+24/01/2025,Bangladesh,Barishal,Barishal,1200000,PCR,352,18,334,0
+"Jan 24, 2025",Bangladesh,Barishal,Barishal,1200000,Antigen,393,20,372,1
+25-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,PCR,169,6,159,4
+2025-01-25,Bangladesh,Dhaka,Dhaka,10200000,Antigen,209,8,201,0
+2025-01-25,Bangladesh,Dhaka,Gazipur,5200000,PCR,188,8,180,0
+25/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Antigen,276,11,264,1
+25/01/2025,Bangladesh,Chattogram,Chattogram,5000000,PCR,205,9,195,1
+"Jan 25, 2025",Bangladesh,Chattogram,Chattogram,5000000,Antigen,250,11,237,2
+"Jan 25, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,249,11,236,2
+25-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,300,13,284,3
+25-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,288,13,272,3
+2025-01-25,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,354,16,334,4
+2025-01-25,Bangladesh,Khulna,Khulna,2500000,PCR,300,14,282,4
+25/01/2025,Bangladesh,Khulna,Khulna,2500000,Antigen,343,16,327,0
+25/01/2025,Bangladesh,Sylhet,Sylhet,1900000,PCR,335,17,318,0
+"Jan 25, 2025",Bangladesh,Sylhet,Sylhet,1900000,Antigen,368,18,349,1
+"Jan 25, 2025",Bangladesh,Barishal,Barishal,1200000,PCR,366,19,346,1
+25-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Antigen,435,23,410,2
+2025-01-26,Bangladesh,Dhaka,Dhaka,10200000,PCR,168,7,161,0
+26/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Antigen,261,10,250,1
+26/01/2025,Bangladesh,Dhaka,Gazipur,5200000,PCR,194,8,185,1
+"Jan 26, 2025",Bangladesh,Dhaka,Gazipur,5200000,Antigen,260,11,247,2
+"Jan 26, 2025",Bangladesh,Chattogram,Chattogram,5000000,PCR,263,11,250,2
+26-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Antigen,311,13,295,3
+26-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,278,13,262,3
+2025-01-26,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,336,15,317,4
+2025-01-26,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,272,13,255,4
+26/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,318,15,303,0
+26/01/2025,Bangladesh,Khulna,Khulna,2500000,PCR,308,15,293,0
+"Jan 26, 2025",Bangladesh,Khulna,Khulna,2500000,Antigen,368,18,349,1
+"Jan 26, 2025",Bangladesh,Sylhet,Sylhet,1900000,PCR,362,18,343,1
+26-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Antigen,420,21,397,2
+26-Jan-2025,Bangladesh,Barishal,Barishal,1200000,PCR,357,19,336,2
+2025-01-26,Bangladesh,Barishal,Barishal,1200000,Antigen,446,24,419,3
+27/01/2025,Bangladesh,Dhaka,Dhaka,10200000,PCR,176,7,168,1
+"Jan 27, 2025",Bangladesh,Dhaka,Dhaka,10200000,Antigen,261,10,249,2
+"Jan 27, 2025",Bangladesh,Dhaka,Gazipur,5200000,PCR,210,9,199,2
+27-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Antigen,269,11,255,3
+27-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,PCR,282,12,267,3
+2025-01-27,Bangladesh,Chattogram,Chattogram,5000000,Antigen,266,12,250,4
+2025-01-27,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,269,12,253,4
+27/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,357,16,341,0
+27/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,340,16,324,0
+"Jan 27, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,373,18,354,1
+"Jan 27, 2025",Bangladesh,Khulna,Khulna,2500000,PCR,373,19,353,1
+27-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Antigen,406,20,384,2
+27-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,PCR,380,20,358,2
+2025-01-27,Bangladesh,Sylhet,Sylhet,1900000,Antigen,422,22,397,3
+2025-01-27,Bangladesh,Barishal,Barishal,1200000,PCR,362,20,339,3
+27/01/2025,Bangladesh,Barishal,Barishal,1200000,Antigen,451,24,423,4
+"Jan 28, 2025",Bangladesh,Dhaka,Dhaka,10200000,PCR,186,8,176,2
+28-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Antigen,233,10,220,3
+28-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,PCR,234,10,221,3
+2025-01-28,Bangladesh,Dhaka,Gazipur,5200000,Antigen,306,13,289,4
+2025-01-28,Bangladesh,Chattogram,Chattogram,5000000,PCR,256,12,240,4
+28/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Antigen,341,15,326,0
+28/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,326,15,311,0
+"Jan 28, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,352,17,334,1
+"Jan 28, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,PCR,305,15,289,1
+28-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,382,19,361,2
+28-Jan-2025,Bangladesh,Khulna,Khulna,2500000,PCR,342,17,323,2
+2025-01-28,Bangladesh,Khulna,Khulna,2500000,Antigen,372,19,350,3
+2025-01-28,Bangladesh,Sylhet,Sylhet,1900000,PCR,359,19,337,3
+28/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Antigen,406,22,380,4
+28/01/2025,Bangladesh,Barishal,Barishal,1200000,PCR,431,24,403,4
+"Jan 28, 2025",Bangladesh,Barishal,Barishal,1200000,Antigen,443,24,419,0
+29-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,PCR,249,9,237,3
+2025-01-29,Bangladesh,Dhaka,Dhaka,10200000,Antigen,290,10,276,4
+2025-01-29,Bangladesh,Dhaka,Gazipur,5200000,PCR,261,10,247,4
+29/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Antigen,326,12,314,0
+29/01/2025,Bangladesh,Chattogram,Chattogram,5000000,PCR,301,12,289,0
+"Jan 29, 2025",Bangladesh,Chattogram,Chattogram,5000000,Antigen,344,13,330,1
+"Jan 29, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,293,12,280,1
+29-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,326,13,311,2
+29-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,316,14,300,2
+2025-01-29,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,362,16,343,3
+2025-01-29,Bangladesh,Khulna,Khulna,2500000,PCR,357,16,338,3
+29/01/2025,Bangladesh,Khulna,Khulna,2500000,Antigen,418,19,395,4
+29/01/2025,Bangladesh,Sylhet,Sylhet,1900000,PCR,370,17,349,4
+"Jan 29, 2025",Bangladesh,Sylhet,Sylhet,1900000,Antigen,422,20,402,0
+"Jan 29, 2025",Bangladesh,Barishal,Barishal,1200000,PCR,413,20,393,0
+29-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Antigen,483,24,458,1
+2025-01-30,Bangladesh,Dhaka,Dhaka,10200000,PCR,236,8,224,4
+30/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Antigen,307,11,296,0
+30/01/2025,Bangladesh,Dhaka,Gazipur,5200000,PCR,275,10,265,0
+"Jan 30, 2025",Bangladesh,Dhaka,Gazipur,5200000,Antigen,338,13,324,1
+"Jan 30, 2025",Bangladesh,Chattogram,Chattogram,5000000,PCR,281,11,269,1
+30-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Antigen,335,13,320,2
+30-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,333,14,317,2
+2025-01-30,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,340,14,323,3
+2025-01-30,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,346,15,328,3
+30/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,361,16,341,4
+30/01/2025,Bangladesh,Khulna,Khulna,2500000,PCR,372,17,351,4
+"Jan 30, 2025",Bangladesh,Khulna,Khulna,2500000,Antigen,435,20,415,0
+"Jan 30, 2025",Bangladesh,Sylhet,Sylhet,1900000,PCR,405,19,386,0
+30-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Antigen,475,23,451,1
+30-Jan-2025,Bangladesh,Barishal,Barishal,1200000,PCR,407,20,386,1
+2025-01-30,Bangladesh,Barishal,Barishal,1200000,Antigen,475,24,449,2
+31/01/2025,Bangladesh,Dhaka,Dhaka,10200000,PCR,119,4,115,0
+"Jan 31, 2025",Bangladesh,Dhaka,Dhaka,10200000,Antigen,193,7,185,1
+"Jan 31, 2025",Bangladesh,Dhaka,Gazipur,5200000,PCR,167,7,159,1
+31-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Antigen,179,7,170,2
+31-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,PCR,160,7,151,2
+2025-01-31,Bangladesh,Chattogram,Chattogram,5000000,Antigen,235,10,222,3
+2025-01-31,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,198,9,186,3
+31/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,221,10,207,4
+31/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,222,10,208,4
+"Jan 31, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,263,12,251,0
+"Jan 31, 2025",Bangladesh,Khulna,Khulna,2500000,PCR,277,13,264,0
+31-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Antigen,298,14,283,1
+31-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,PCR,270,13,256,1
+2025-01-31,Bangladesh,Sylhet,Sylhet,1900000,Antigen,335,16,317,2
+2025-01-31,Bangladesh,Barishal,Barishal,1200000,PCR,288,15,271,2
+31/01/2025,Bangladesh,Barishal,Barishal,1200000,Antigen,339,17,319,3
+"Feb 01, 2025",Bangladesh,Dhaka,Dhaka,10200000,PCR,118,4,113,1
+01-Feb-2025,Bangladesh,Dhaka,Dhaka,10200000,Antigen,149,6,141,2
+01-Feb-2025,Bangladesh,Dhaka,Gazipur,5200000,PCR,183,7,174,2
+2025-02-01,Bangladesh,Dhaka,Gazipur,5200000,Antigen,207,8,196,3
+2025-02-01,Bangladesh,Chattogram,Chattogram,5000000,PCR,213,9,201,3
+01/02/2025,Bangladesh,Chattogram,Chattogram,5000000,Antigen,219,9,206,4
+01/02/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,192,8,180,4
+"Feb 01, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,247,11,236,0
+"Feb 01, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,PCR,225,10,215,0
+01-Feb-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,313,14,298,1
+01-Feb-2025,Bangladesh,Khulna,Khulna,2500000,PCR,278,13,264,1
+2025-02-01,Bangladesh,Khulna,Khulna,2500000,Antigen,284,14,268,2
+2025-02-01,Bangladesh,Sylhet,Sylhet,1900000,PCR,324,16,306,2
+01/02/2025,Bangladesh,Sylhet,Sylhet,1900000,Antigen,323,16,304,3
+01/02/2025,Bangladesh,Barishal,Barishal,1200000, PCR ,347,18,326,3
+"Feb 01, 2025",Bangladesh,Barishal,Barishal,1200000,Antigen,366,19,343,4
+02-Feb-2025,Bangladesh,Dhaka,Dhaka,10200000,PCR,141,5,134,2
+2025-02-02,Bangladesh,Dhaka,Dhaka,10200000,Antigen,159,6,150,3
+2025-02-02,Bangladesh,Dhaka,Gazipur,5200000,PCR,192,8,181,3
+02/02/2025,Bangladesh,Dhaka,Gazipur,5200000,Antigen,223,9,210,4
+02/02/2025,Bangladesh,Chattogram,Chattogram,5000000,PCR,200,9,187,4
+"Feb 02, 2025",Bangladesh,Chattogram,Chattogram,5000000,Antigen,266,11,255,0
+"Feb 02, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,251,11,240,0
+02-Feb-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,275,12,262,1
+02-Feb-2025,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,265,12,252,1
+2025-02-02,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,276,13,261,2
+2025-02-02,Bangladesh,Khulna,Khulna,2500000,PCR,295,14,279,2
+02/02/2025,Bangladesh,Khulna,Khulna,2500000,Antigen,334,16,315,3
+02/02/2025,Bangladesh,Sylhet,Sylhet,1900000,PCR,322,16,303,3
+"Feb 02, 2025",Bangladesh,Sylhet,Sylhet,1900000,Antigen,339,17,318,4
+"Feb 02, 2025",Bangladesh,Barishal,Barishal,1200000,PCR,370,20,346,4
+02-Feb-2025,Bangladesh,Barishal,Barishal,1200000,Antigen,412,22,390,0
+2025-02-03,Bangladesh,Dhaka,Dhaka,10200000,PCR,190,8,179,3
+03/02/2025,Bangladesh,Dhaka,Dhaka,10200000,Antigen,179,7,168,4
+03/02/2025,Bangladesh,Dhaka,Gazipur,5200000,PCR,196,8,184,4
+"Feb 03, 2025",Bangladesh,Dhaka,Gazipur,5200000,Antigen,230,10,220,0
+"Feb 03, 2025",Bangladesh,Chattogram,Chattogram,5000000,PCR,239,11,228,0
+03-Feb-2025,Bangladesh,Chattogram,Chattogram,5000000,Antigen,228,10,217,1
+03-Feb-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,250,12,237,1
+2025-02-03,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,299,14,283,2
+2025-02-03,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,296,14,280,2
+03/02/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,291,14,274,3
+03/02/2025,Bangladesh,Khulna,Khulna,2500000,PCR,280,14,263,3
+"Feb 03, 2025",Bangladesh,Khulna,Khulna,2500000,Antigen,341,17,320,4
+"Feb 03, 2025",Bangladesh,Sylhet,Sylhet,1900000,PCR,355,18,333,4
+03-Feb-2025,Bangladesh,Sylhet,Sylhet,1900000,Antigen,384,20,364,0
+03-Feb-2025,Bangladesh,Barishal,Barishal,1200000,PCR,337,18,319,0
+2025-02-03,Bangladesh,Barishal,Barishal,1200000,Antigen,388,21,366,1
+04/02/2025,Bangladesh,Dhaka,Dhaka,10200000,PCR,188,8,176,4
+"Feb 04, 2025",Bangladesh,Dhaka,Dhaka,10200000,Antigen,217,9,208,0
+"Feb 04, 2025",Bangladesh,Dhaka,Gazipur,5200000,PCR,189,8,181,0
+04-Feb-2025,Bangladesh,Dhaka,Gazipur,5200000,Antigen,274,12,261,1
+04-Feb-2025,Bangladesh,Chattogram,Chattogram,5000000,PCR,229,10,218,1
+2025-02-04,Bangladesh,Chattogram,Chattogram,5000000,Antigen,291,13,276,2
+2025-02-04,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,259,12,245,2
+04/02/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,289,14,272,3
+04/02/2025,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,265,13,249,3
+"Feb 04, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,346,17,325,4
+"Feb 04, 2025",Bangladesh,Khulna,Khulna,2500000,PCR,331,17,310,4
+04-Feb-2025,Bangladesh,Khulna,Khulna,2500000,Antigen,330,17,313,0
+04-Feb-2025,Bangladesh,Sylhet,Sylhet,1900000,PCR,338,18,320,0
+2025-02-04,Bangladesh,Sylhet,Sylhet,1900000,Antigen,371,20,350,1
+2025-02-04,Bangladesh,Barishal,Barishal,1200000,PCR,354,19,334,1
+04/02/2025,Bangladesh,Barishal,Barishal,1200000,Antigen,431,24,405,2
+"Feb 05, 2025",Bangladesh,Dhaka,Dhaka,10200000,PCR,195,7,188,0
+05-Feb-2025,Bangladesh,Dhaka,Dhaka,10200000,Antigen,263,9,253,1
+05-Feb-2025,Bangladesh,Dhaka,Gazipur,5200000,PCR,207,8,198,1
+2025-02-05,Bangladesh,Dhaka,Gazipur,5200000,Antigen,278,10,266,2
+2025-02-05,Bangladesh,Chattogram,Chattogram,5000000,PCR,276,11,263,2
+05/02/2025,Bangladesh,Chattogram,Chattogram,5000000,Antigen,258,10,245,3
+05/02/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,263,11,249,3
+"Feb 05, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,296,12,280,4
+"Feb 05, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,PCR,268,12,252,4
+05-Feb-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,354,15,339,0
+05-Feb-2025,Bangladesh,Khulna,Khulna,2500000,PCR,354,16,338,0
+2025-02-05,Bangladesh,Khulna,Khulna,2500000,Antigen,351,16,334,1
+2025-02-05,Bangladesh,Sylhet,Sylhet,1900000,PCR,368,17,350,1
+05/02/2025,Bangladesh,Sylhet,Sylhet,1900000,Antigen,389,18,369,2
+05/02/2025,Bangladesh,Barishal,Barishal,1200000,PCR,367,18,347,2
+"Feb 05, 2025",Bangladesh,Barishal,Barishal,1200000,Antigen,415,20,392,3
+06-Feb-2025,Bangladesh,Dhaka,Dhaka,10200000,PCR,235,8,226,1
+2025-02-06,Bangladesh,Dhaka,Dhaka,10200000,Antigen,232,8,222,2
+2025-02-06,Bangladesh,Dhaka,Gazipur,5200000,PCR,253,10,241,2
+06/02/2025,Bangladesh,Dhaka,Gazipur,5200000,Antigen,286,11,272,3
+06/02/2025,Bangladesh,Chattogram,Chattogram,5000000,PCR,241,10,228,3
+"Feb 06, 2025",Bangladesh,Chattogram,Chattogram,5000000,Antigen,278,11,263,4
+"Feb 06, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,287,12,271,4
+06-Feb-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,353,15,338,0
+06-Feb-2025,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,308,14,294,0
+2025-02-06,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,349,15,333,1
+2025-02-06,Bangladesh,Khulna,Khulna,2500000,PCR,314,14,299,1
+06/02/2025,Bangladesh,Khulna,Khulna,2500000,Antigen,396,18,376,2
+06/02/2025,Bangladesh,Sylhet,Sylhet,1900000,PCR,343,16,325,2
+"Feb 06, 2025",Bangladesh,Sylhet,Sylhet,1900000,Antigen,382,18,361,3
+"Feb 06, 2025",Bangladesh,Barishal,Barishal,1200000,PCR,424,21,400,3
+06-Feb-2025,Bangladesh,Barishal,Barishal,1200000,Antigen,447,22,421,4
+2025-02-07,Bangladesh,Dhaka,Dhaka,10200000,PCR,243,9,232,2
+07/02/2025,Bangladesh,Dhaka,Dhaka,10200000,Antigen,232,9,220,3
+07/02/2025,Bangladesh,Dhaka,Gazipur,5200000,PCR,218,9,206,3
+"Feb 07, 2025",Bangladesh,Dhaka,Gazipur,5200000,Antigen,294,11,279,4
+"Feb 07, 2025",Bangladesh,Chattogram,Chattogram,5000000,PCR,296,12,280,4
+07-Feb-2025,Bangladesh,Chattogram,Chattogram,5000000,Antigen,320,13,307,0
+07-Feb-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,311,13,298,0
+2025-02-07,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,322,14,307,1
+2025-02-07,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,312,14,297,1
+07/02/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,364,16,346,2
+07/02/2025,Bangladesh,Khulna,Khulna,2500000,PCR,354,17,335,2
+"Feb 07, 2025",Bangladesh,Khulna,Khulna,2500000,Antigen,363,17,343,3
+"Feb 07, 2025",Bangladesh,Sylhet,Sylhet,1900000,PCR,384,19,362,3
+07-Feb-2025,Bangladesh,Sylhet,Sylhet,1900000,Antigen,414,20,390,4
+07-Feb-2025,Bangladesh,Barishal,Barishal,1200000,PCR,389,20,365,4
+2025-02-07,Bangladesh,Barishal,Barishal,1200000,Antigen,445,23,422,0
+08/02/2025,Bangladesh,Dhaka,Dhaka,10200000,PCR,228,9,216,3
+"Feb 08, 2025",Bangladesh,Dhaka,Dhaka,10200000,Antigen,300,11,285,4
+"Feb 08, 2025",Bangladesh,Dhaka,Gazipur,5200000,PCR,264,11,249,4
+08-Feb-2025,Bangladesh,Dhaka,Gazipur,5200000,Antigen,291,12,279,0
+08-Feb-2025,Bangladesh,Chattogram,Chattogram,5000000,PCR,282,12,270,0
+2025-02-08,Bangladesh,Chattogram,Chattogram,5000000,Antigen,312,13,298,1
+2025-02-08,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,331,15,315,1
+08/02/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,318,14,302,2
+08/02/2025,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,355,16,337,2
+"Feb 08, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,362,17,342,3
+"Feb 08, 2025",Bangladesh,Khulna,Khulna,2500000,PCR,386,19,364,3
+08-Feb-2025,Bangladesh,Khulna,Khulna,2500000,Antigen,423,20,399,4
+08-Feb-2025,Bangladesh,Sylhet,Sylhet,1900000,PCR,387,19,364,4
+2025-02-08,Bangladesh,Sylhet,Sylhet,1900000,Antigen,409,20,389,0
+2025-02-08,Bangladesh,Barishal,Barishal,1200000,PCR,399,21,378,0
+08/02/2025,Bangladesh,Barishal,Barishal,1200000,Antigen,437,23,413,1
+"Feb 09, 2025",Bangladesh,Dhaka,Dhaka,10200000,PCR,217,8,205,4
+09-Feb-2025,Bangladesh,Dhaka,Dhaka,10200000,Antigen,281,11,270,0
+09-Feb-2025,Bangladesh,Dhaka,Gazipur,5200000,PCR,281,12,269,0
+2025-02-09,Bangladesh,Dhaka,Gazipur,5200000,Antigen,296,12,283,1
+2025-02-09,Bangladesh,Chattogram,Chattogram,5000000,PCR,323,14,308,1
+09/02/2025,Bangladesh,Chattogram,Chattogram,5000000,Antigen,342,15,325,2
+09/02/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,339,15,322,2
+"Feb 09, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,358,16,339,3
+"Feb 09, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,PCR,343,16,324,3
+09-Feb-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,380,18,358,4
+09-Feb-2025,Bangladesh,Khulna,Khulna,2500000,PCR,411,20,387,4
+2025-02-09,Bangladesh,Khulna,Khulna,2500000,Antigen,401,20,381,0
+2025-02-09,Bangladesh,Sylhet,Sylhet,1900000,PCR,380,19,361,0
+09/02/2025,Bangladesh,Sylhet,Sylhet,1900000,Antigen,421,21,399,1
+09/02/2025,Bangladesh,Barishal,Barishal,1200000,PCR,451,24,426,1
+"Feb 09, 2025",Bangladesh,Barishal,Barishal,1200000,Antigen,468,25,441,2
+10-Feb-2025,Bangladesh,Dhaka,Dhaka,10200000,PCR,155,6,149,0
+2025-02-10,Bangladesh,Dhaka,Dhaka,10200000,Antigen,158,6,151,1
+2025-02-10,Bangladesh,Dhaka,Gazipur,5200000,PCR,147,6,140,1
+10/02/2025,Bangladesh,Dhaka,Gazipur,5200000,Antigen,199,8,189,2
+10/02/2025,Bangladesh,Chattogram,Chattogram,5000000,PCR,192,8,182,2
+"Feb 10, 2025",Bangladesh,Chattogram,Chattogram,5000000,Antigen,202,9,190,3
+"Feb 10, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,189,9,177,3
+10-Feb-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,262,12,246,4
+10-Feb-2025,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,242,12,226,4
+2025-02-10,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,265,13,252,0
+2025-02-10,Bangladesh,Khulna,Khulna,2500000,PCR,242,12,230,0
+10/02/2025,Bangladesh,Khulna,Khulna,2500000,Antigen,275,14,260,1
+10/02/2025,Bangladesh,Sylhet,Sylhet,1900000,PCR,278,14,263,1
+"Feb 10, 2025",Bangladesh,Sylhet,Sylhet,1900000,Antigen,309,16,291,2
+"Feb 10, 2025",Bangladesh,Barishal,Barishal,1200000,PCR,327,18,307,2
+10-Feb-2025,Bangladesh,Barishal,Barishal,1200000,Antigen,373,20,350,3
+2025-02-11,Bangladesh,Dhaka,Dhaka,10200000,PCR,173,7,165,1
+11/02/2025,Bangladesh,Dhaka,Dhaka,10200000,Antigen,182,7,173,2
+11/02/2025,Bangladesh,Dhaka,Gazipur,5200000,PCR,163,7,154,2
+"Feb 11, 2025",Bangladesh,Dhaka,Gazipur,5200000,Antigen,183,8,172,3
+"Feb 11, 2025",Bangladesh,Chattogram,Chattogram,5000000,PCR,177,8,166,3
+11-Feb-2025,Bangladesh,Chattogram,Chattogram,5000000,Antigen,240,11,225,4
+11-Feb-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,227,11,212,4
+2025-02-11,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,279,13,266,0
+2025-02-11,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,281,14,267,0
+11/02/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,267,13,253,1
+11/02/2025,Bangladesh,Khulna,Khulna,2500000,PCR,277,14,262,1
+"Feb 11, 2025",Bangladesh,Khulna,Khulna,2500000,Antigen,338,17,319,2
+"Feb 11, 2025",Bangladesh,Sylhet,Sylhet,1900000,PCR,292,15,275,2
+11-Feb-2025,Bangladesh,Sylhet,Sylhet,1900000,Antigen,327,17,307,3
+11-Feb-2025,Bangladesh,Barishal,Barishal,1200000,PCR,302,17,282,3
+2025-02-11,Bangladesh,Barishal,Barishal,1200000,Antigen,337,19,314,4
+12/02/2025,Bangladesh,Dhaka,Dhaka,10200000,PCR,166,6,158,2
+"Feb 12, 2025",Bangladesh,Dhaka,Dhaka,10200000,Antigen,164,6,155,3
+"Feb 12, 2025",Bangladesh,Dhaka,Gazipur,5200000,PCR,200,7,190,3
+12-Feb-2025,Bangladesh,Dhaka,Gazipur,5200000,Antigen,186,7,175,4
+12-Feb-2025,Bangladesh,Chattogram,Chattogram,5000000,PCR,191,7,180,4
+2025-02-12,Bangladesh,Chattogram,Chattogram,5000000,Antigen,260,10,250,0
+2025-02-12,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,243,10,233,0
+12/02/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,280,11,268,1
+12/02/2025,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,265,11,253,1
+"Feb 12, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,330,14,314,2
+"Feb 12, 2025",Bangladesh,Khulna,Khulna,2500000,PCR,310,14,294,2
+12-Feb-2025,Bangladesh,Khulna,Khulna,2500000,Antigen,319,14,302,3
+12-Feb-2025,Bangladesh,Sylhet,Sylhet,1900000,PCR,302,14,285,3
+2025-02-12,Bangladesh,Sylhet,Sylhet,1900000,Antigen,347,16,327,4
+2025-02-12,Bangladesh,Barishal,Barishal,1200000,PCR,346,17,325,4
+12/02/2025,Bangladesh,Barishal,Barishal ,1200000,Antigen,412,20,392,0
+"Feb 13, 2025",Bangladesh,Dhaka,Dhaka,10200000,PCR,197,7,187,3
+13-Feb-2025,Bangladesh,Dhaka,Dhaka,10200000,Antigen,194,7,183,4
+13-Feb-2025,Bangladesh,Dhaka,Gazipur,5200000,PCR,202,8,190,4
+2025-02-13,Bangladesh,Dhaka,Gazipur,5200000,Antigen,252,10,242,0
+2025-02-13,Bangladesh,Chattogram,Chattogram,5000000,PCR,250,10,240,0
+13/02/2025,Bangladesh,Chattogram,Chattogram,5000000,Antigen,238,10,227,1
+13/02/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,238,10,227,1
+"Feb 13, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,311,13,296,2
+"Feb 13, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,PCR,244,11,231,2
+13-Feb-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,282,12,267,3
+13-Feb-2025,Bangladesh,Khulna,Khulna,2500000,PCR,304,14,287,3
+2025-02-13,Bangladesh,Khulna,Khulna,2500000,Antigen,345,16,325,4
+2025-02-13,Bangladesh,Sylhet,Sylhet,1900000,PCR,333,16,313,4
+13/02/2025,Bangladesh,Sylhet,Sylhet ,1900000,Antigen,387,19,368,0
+13/02/2025,Bangladesh,Barishal,Barishal ,1200000,PCR,376,19,357,0
+"Feb 13, 2025",Bangladesh,Barishal,Barishal,1200000,Antigen,420,21,398,1
+14-Feb-2025,Bangladesh,Dhaka,Dhaka,10200000,PCR,193,7,182,4
+2025-02-14,Bangladesh,Dhaka,Dhaka,10200000,Antigen,188,7,181,0
+2025-02-14,Bangladesh,Dhaka,Gazipur,5200000,PCR,179,7,172,0
+14/02/2025,Bangladesh,Dhaka,Gazipur,5200000,Antigen,248,10,237,1
+14/02/2025,Bangladesh,Chattogram,Chattogram,5000000,PCR,228,9,218,1
+"Feb 14, 2025",Bangladesh,Chattogram,Chattogram,5000000,Antigen,265,11,252,2
+"Feb 14, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,PCR,285,12,271,2
+14-Feb-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Antigen,304,13,288,3
+14-Feb-2025,Bangladesh,Rajshahi,Rajshahi,2600000,PCR,271,12,256,3
+2025-02-14,Bangladesh,Rajshahi,Rajshahi,2600000,Antigen,309,14,291,4
+2025-02-14,Bangladesh,Khulna,Khulna,2500000,PCR,312,15,293,4
+14/02/2025,Bangladesh,Khulna,Khulna ,2500000,Antigen,374,18,356,0
+14/02/2025,Bangladesh,Sylhet,Sylhet ,1900000,PCR,311,15,296,0
+"Feb 14, 2025",Bangladesh,Sylhet,Sylhet,1900000,Antigen,350,17,332,1
+"Feb 14, 2025",Bangladesh,Barishal,Barishal,1200000,PCR,367,19,347,1
+14-Feb-2025,Bangladesh,Barishal,Barishal,1200000,Antigen,381,19,360,2
+"Jan 01, 2025",Bangladesh,Chattogram,Chattogram ,5000000,Antigen,248,10,235,3
+"Jan 14, 2025",Bangladesh,Dhaka,Gazipur,5200000,Antigen,229,10,219,0
+01/02/2025,Bangladesh,Chattogram,Chattogram,5000000,Antigen,219,9,206,4

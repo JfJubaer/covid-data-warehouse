@@ -1,0 +1,1084 @@
+﻿report_date,country,division,district,population,vaccine_name,manufacturer,vaccinations,people_vaccinated,people_fully_vaccinated
+"Jan 01, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,59,110,88
+01-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,91,136,111
+2025-01-01,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,112,162,134
+01-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,103,141,119
+2025-01-01,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,99,167,142
+01/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,150,193,165
+2025-01-01,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,103,172,150
+01/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,154,198,173
+"Jan 01, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,156,224,196
+01/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,145,203,181
+"Jan 01, 2025",Bangladesh,Chattogram,Coxs Bazar,2800000,Synthetic-Vax-B,Example Biologics B,135,229,204
+01-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,189,255,227
+"Jan 01, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,157,234,212
+01-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,154,260,235
+2025-01-01,Bangladesh,Rajshahi,Rajshahi ,2600000,Synthetic-Vax-C,Example Labs C,198,286,258
+01-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,164,265,243
+2025-01-01,Bangladesh,Khulna,Khulna ,2500000,Synthetic-Vax-B,Example Biologics B,208,291,266
+01/01/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,218,317,289
+2025-01-01,Bangladesh,Sylhet,Sylhet ,1900000,Synthetic-Vax-A,Example Pharma A,196,296,274
+01/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,209,322,297
+"Jan 01, 2025",Bangladesh, Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,251,348,320
+01/01/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,207,327,305
+"Jan 01, 2025",Bangladesh, Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,241,353,328
+01-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,262,379,351
+02-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,83,220,176
+2025-01-02,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,124,272,222
+02/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,138,324,268
+2025-01-02,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,109,282,238
+02/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,128,334,284
+"Jan 02, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,160,386,330
+02/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,104,344,300
+"Jan 02, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,157,396,346
+02-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,160,448,392
+"Jan 02, 2025",Bangladesh,Chattogram,Coxs Bazar,2800000,Synthetic-Vax-A,Example Pharma A,121,406,362
+02-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,144,458,408
+2025-01-02,Bangladesh,Chattogram,Cox's Bazar ,2800000,Synthetic-Vax-C,Example Labs C,170,510,454
+02-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,143,468,424
+2025-01-02,Bangladesh,Rajshahi,Rajshahi ,2600000,Synthetic-Vax-B,Example Biologics B,172,520,470
+02/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,219,572,516
+2025-01-02,Bangladesh,Khulna,Khulna ,2500000,Synthetic-Vax-A,Example Pharma A,182,530,486
+02/01/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,197,582,532
+"Jan 02, 2025",Bangladesh, Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,210,634,578
+02/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,200,592,548
+"Jan 02, 2025",Bangladesh, Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,204,644,594
+02-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,239,696,640
+"Jan 02, 2025",Bangladesh, Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,214,654,610
+02-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,251,706,656
+2025-01-02,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,255,758,702
+2025-01-03,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,80,330,264
+03/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,112,408,333
+"Jan 03, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,124,486,402
+03/01/2025,Bangladesh,Dhaka,Gazipur,,Synthetic-Vax-A,Example Pharma A,95,423,357
+"Jan 03, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,120,501,426
+03-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,155,579,495
+"Jan 03, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,122,516,450
+03-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,166,594,519
+2025-01-03,Bangladesh,Chattogram,Chattogram ,5000000,Synthetic-Vax-C,Example Labs C,164,672,588
+03-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,128,609,543
+2025-01-03,Bangladesh,Chattogram,Cox's Bazar ,2800000,Synthetic-Vax-B,Example Biologics B,165,687,612
+03/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,179,765,681
+2025-01-03,Bangladesh,Rajshahi,Rajshahi ,2600000,Synthetic-Vax-A,Example Pharma A,165,702,636
+03/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,207,780,705
+"Jan 03, 2025",Bangladesh, Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,196,858,774
+03/01/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,176,795,729
+"Jan 03, 2025",Bangladesh, Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,220,873,798
+03-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,217,951,867
+"Jan 03, 2025",Bangladesh, Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,214,888,822
+03-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,238,966,891
+2025-01-03,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,248,1044,960
+03-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,242,981,915
+2025-01-03,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,232,1059,984
+03/01/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,285,1137,1053
+04/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,99,440,352
+"Jan 04, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,133,544,444
+04-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,157,648,536
+"Jan 04, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,98,564,476
+04-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,144,668,568
+2025-01-04,Bangladesh,Dhaka,Gazipur ,5200000,Synthetic-Vax-C,Example Labs C,161,772,660
+04-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,125,688,600
+2025-01-04,Bangladesh,Chattogram,Chattogram ,5000000,Synthetic-Vax-B,Example Biologics B,148,792,692
+04/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,193,896,784
+2025-01-04,Bangladesh,Chattogram,Cox's Bazar ,2800000,Synthetic-Vax-A,Example Pharma A,138,812,724
+04/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,187,916,816
+"Jan 04, 2025",Bangladesh, Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,203,1020,908
+04/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,164,936,848
+"Jan 04, 2025",Bangladesh, Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,185,1040,940
+04-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,213,1144,1032
+"Jan 04, 2025",Bangladesh, Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,174,1060,972
+04-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,221,1164,1064
+2025-01-04,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,241,1268,1156
+04-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,220,1184,1096
+2025-01-04,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,237,1288,1188
+04/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,250,1392,1280
+2025-01-04,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,220,1308,1220
+04/01/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,257,1412,1312
+"Jan 04, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,271,1516,1404
+"Jan 05, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,124,550,440
+05-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,110,680,555
+2025-01-05,Bangladesh,Dhaka,Dhaka ,10200000,Synthetic-Vax-C,Example Labs C,149,810,670
+05-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,144,705,595
+2025-01-05,Bangladesh,Dhaka,Gazipur ,5200000,Synthetic-Vax-B,Example Biologics B,143,835,710
+05/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,158,965,825
+2025-01-05,Bangladesh,Chattogram,Chattogram ,5000000,Synthetic-Vax-A,Example Pharma A,151,860,750
+05/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,184,990,865
+"Jan 05, 2025",Bangladesh, Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,172,1120,980
+05/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,182,1015,905
+"Jan 05, 2025",Bangladesh, Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,178,1145,1020
+05-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,219,1275,1135
+"Jan 05, 2025",Bangladesh, Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,169,1170,1060
+05-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,210,1300,1175
+2025-01-05,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,217,1430,1290
+05-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,186,1325,1215
+2025-01-05,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,217,1455,1330
+05/01/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,247,1585,1445
+2025-01-05,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,208,1480,1370
+05/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,225,1610,1485
+"Jan 05, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,258,1740,1600
+05/01/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,247,1635,1525
+"Jan 05, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,271,1765,1640
+05-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,281,1895,1755
+06-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,118,660,528
+2025-01-06,Bangladesh,Dhaka,Dhaka ,10200000,Synthetic-Vax-B,Example Biologics B,147,816,666
+06/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,158,972,804
+2025-01-06,Bangladesh,Dhaka,Gazipur ,5200000,Synthetic-Vax-A,Example Pharma A,131,846,714
+06/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,143,1002,852
+"Jan 06, 2025",Bangladesh, Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,175,1158,990
+06/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,163,1032,900
+"Jan 06, 2025",Bangladesh, Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,182,1188,1038
+06-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,195,1344,1176
+"Jan 06, 2025",Bangladesh, Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,152,1218,1086
+06-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,185,1374,1224
+2025-01-06,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,225,1530,1362
+06-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,191,1404,1272
+2025-01-06,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,207,1560,1410
+06/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,235,1716,1548
+2025-01-06,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,218,1590,1458
+06/01/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,247,1746,1596
+"Jan 06, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,250,1902,1734
+06/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,219,1776,1644
+"Jan 06, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,261,1932,1782
+06-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,291,2088,1920
+"Jan 06, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,244,1962,1830
+06-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,261,2118,1968
+2025-01-06,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,297,2274,2106
+2025-01-07,Bangladesh,Dhaka,Dhaka ,10200000,Synthetic-Vax-A,Example Pharma A,130,770,616
+07/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,160,952,777
+"Jan 07, 2025",Bangladesh, Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,172,1134,938
+07/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,145,987,833
+"Jan 07, 2025",Bangladesh, Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,180,1169,994
+07-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,185,1351,1155
+"Jan 07, 2025",Bangladesh, Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,147,1204,1050
+07-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,175,1386,1211
+2025-01-07,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,208,1568,1372
+07-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,173,1421,1267
+2025-01-07,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,183,1603,1428
+07/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,230,1785,1589
+2025-01-07,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,183,1638,1484
+07/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,203,1820,1645
+"Jan 07, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,260,2002,1806
+07/01/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,208,1855,1701
+"Jan 07, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,252,2037,1862
+07-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,265,2219,2023
+"Jan 07, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,243,2072,1918
+07-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,258,2254,2079
+2025-01-07,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,299,2436,2240
+07-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,248,2289,2135
+2025-01-07,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,262,2471,2296
+07/01/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,290,2653,2457
+08/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,132,880,704
+"Jan 08, 2025",Bangladesh, Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,142,1088,888
+08-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,188,1296,1072
+"Jan 08, 2025",Bangladesh, Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,150,1128,952
+08-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,175,1336,1136
+2025-01-08,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,213,1544,1320
+08-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,182,1376,1200
+2025-01-08,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,195,1584,1384
+08/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,229,1792,1568
+2025-01-08,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,183,1624,1448
+08/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,pending,1832,1632
+"Jan 08, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,246,2040,1816
+08/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,188,1872,1696
+"Jan 08, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,215,2080,1880
+08-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,254,2288,2064
+"Jan 08, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,236,2120,1944
+08-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,250,2328,2128
+2025-01-08,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,274,2536,2312
+08-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,245,2368,2192
+2025-01-08,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,282,2576,2376
+08/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,304,2784,2560
+2025-01-08,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,261,2616,2440
+08/01/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,271,2824,2624
+"Jan 08, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,309,3032,2808
+"Jan 09, 2025",Bangladesh, Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,153,990,792
+09-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,143,1224,999
+2025-01-09,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,173,1458,1206
+09-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,157,1269,1071
+2025-01-09,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,196,1503,1278
+09/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,189,1737,1485
+2025-01-09,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,174,1548,1350
+09/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,186,1782,1557
+"Jan 09, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,207,2016,1764
+09/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,184,1827,1629
+"Jan 09, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,222,2061,1836
+09-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,250,2295,2043
+"Jan 09, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,213,2106,1908
+09-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,226,2340,2115
+2025-01-09,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,253,2574,2322
+09-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,233,2385,2187
+2025-01-09,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,271,2619,2394
+09/01/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,268,2853,2601
+2025-01-09,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,252,2664,2466
+09/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,258,2898,2673
+"Jan 09, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,312,3132,2880
+09/01/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,277,2943,2745
+"Jan 09, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,287,3177,2952
+09-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,331,3411,3159
+10-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,132,1100,880
+2025-01-10,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,156,1360,1110
+10/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,203,1620,1340
+2025-01-10,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,154,1410,1190
+10/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,173,1670,1420
+"Jan 10, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,218,1930,1650
+10/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,184,1720,1500
+"Jan 10, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,195,1980,1730
+10-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,227,2240,1960
+"Jan 10, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,219,2030,1810
+10-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,234,2290,2040
+2025-01-10,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,253,2550,2270
+10-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,206,2340,2120
+2025-01-10,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,231,2600,2350
+10/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,286,2860,2580
+2025-01-10,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,233,2650,2430
+10/01/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,251,2910,2660
+"Jan 10, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,293,3170,2890
+10/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,242,2960,2740
+"Jan 10, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,272,3220,2970
+10-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,325,3480,3200
+"Jan 10, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,294,3270,3050
+10-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,321,3530,3280
+2025-01-10,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,343,3790,3510
+2025-01-11,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,165,1210,968
+11/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,177,1496,1221
+"Jan 11, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,183,1782,1474
+11/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,160,1551,1309
+"Jan 11, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,214,1837,1562
+11-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,209,2123,1815
+"Jan 11, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,186,1892,1650
+11-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,211,2178,1903
+2025-01-11,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,241,2464,2156
+11-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,205,2233,1991
+2025-01-11,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,226,2519,2244
+11/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,269,2805,2497
+2025-01-11,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,221,2574,2332
+11/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,257,2860,2585
+"Jan 11, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,261,3146,2838
+11/01/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,247,2915,2673
+"Jan 11, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,265,3201,2926
+11-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,301,3487,3179
+"Jan 11, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,254,3256,3014
+11-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,284,3542,3267
+2025-01-11,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,312,3828,3520
+11-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,303,3597,3355
+2025-01-11,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,308,3883,3608
+11/01/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,320,4169,3861
+12/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,92,1320,1056
+"Jan 12, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,88,1632,1332
+12-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,111,1944,1608
+"Jan 12, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,110,1692,1428
+12-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,104,2004,1704
+2025-01-12,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,136,2316,1980
+12-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,98,2064,1800
+2025-01-12,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,120,2376,2076
+12/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,168,2688,2352
+2025-01-12,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,131,2436,2172
+12/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,165,2748,2448
+"Jan 12, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,185,3060,2724
+12/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,140,2808,2544
+"Jan 12, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,168,3120,2820
+12-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,215,3432,3096
+"Jan 12, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,157,3180,2916
+12-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,194,3492,3192
+2025-01-12,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,232,3804,3468
+12-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,180,3552,3288
+2025-01-12,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,226,3864,3564
+12/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,238,4176,3840
+2025-01-12,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,219,3924,3660
+12/01/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,249,4236,3936
+"Jan 12, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,267,4548,4212
+"Jan 13, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,84,1430,1144
+13-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,112,1768,1443
+2025-01-13,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,138,2106,1742
+13-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,109,1833,1547
+2025-01-13,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,115,2171,1846
+13/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,139,2509,2145
+2025-01-13,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,111,2236,1950
+13/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,133,2574,2249
+"Jan 13, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,158,2912,2548
+13/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,133,2639,2353
+"Jan 13, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,147,2977,2652
+13-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,203,3315,2951
+"Jan 13, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,141,3042,2756
+13-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,165,3380,3055
+2025-01-13,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,186,3718,3354
+13-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,177,3445,3159
+2025-01-13,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,184,3783,3458
+13/01/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,219,4121,3757
+2025-01-13,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,205,3848,3562
+13/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,234,4186,3861
+"Jan 13, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,257,4524,4160
+13/01/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,226,4251,3965
+"Jan 13, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,220,4589,4264
+13-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,276,4927,4563
+14-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,87,1540,1232
+2025-01-14,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,101,1904,1554
+14/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,144,2268,1876
+2025-01-14,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,124,1974,1666
+14/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,123,2338,1988
+"Jan 14, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,160,2702,2310
+14/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,110,2408,2100
+"Jan 14, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,147,2772,2422
+14-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,160,3136,2744
+"Jan 14, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,146,2842,2534
+14-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,187,3206,2856
+2025-01-14,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,196,3570,3178
+14-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,155,3276,2968
+2025-01-14,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,187,3640,3290
+14/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,200,-100,3612
+2025-01-14,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,201,3710,3402
+14/01/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,210,4074,3724
+"Jan 14, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,239,4438,4046
+14/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,187,4144,3836
+"Jan 14, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,228,4508,4158
+14-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,245,4872,4480
+"Jan 14, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,236,4578,4270
+14-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,260,4942,4592
+2025-01-14,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,288,5306,4914
+2025-01-15,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,81,1650,1320
+15/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,118,2040,1665
+"Jan 15, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,130,2430,2010
+15/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,118,2115,1785
+"Jan 15, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,139,2505,2130
+15-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,162,2895,2475
+"Jan 15, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,144,2580,2250
+15-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,142,2970,2595
+2025-01-15,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,167,3360,2940
+15-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,171,3045,2715
+2025-01-15,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,163,3435,3060
+15/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,196,3825,3405
+2025-01-15,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,162,3510,3180
+15/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,187,3900,3525
+"Jan 15, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,210,4290,3870
+15/01/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,188,3975,3645
+"Jan 15, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,205,4365,3990
+15-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,241,4755,4335
+"Jan 15, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,204,4440,4110
+15-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,228,4830,4455
+2025-01-15,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,248,5220,4800
+15-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,239,4905,4575
+2025-01-15,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,249,5295,4920
+15/01/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,274,5685,5265
+16/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,111,1760,1408
+"Jan 16, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,133,2176,1776
+16-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,148,2592,2144
+"Jan 16, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,108,2256,1904
+16-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,155,2672,2272
+2025-01-16,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,171,3088,2640
+16-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,153,2752,2400
+2025-01-16,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,181,3168,2768
+16/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,176,3584,3136
+2025-01-16,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,178,3248,2896
+16/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,186,3664,3264
+"Jan 16, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,194,4080,3632
+16/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,195,3744,3392
+"Jan 16, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,213,4160,3760
+16-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,235,4576,4128
+"Jan 16, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,187,4240,3888
+16-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,208,4656,4256
+2025-01-16,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,244,5072,4624
+16-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,236,4736,4384
+2025-01-16,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,225,5152,4752
+16/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,252,5568,5120
+2025-01-16,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,240,5232,4880
+16/01/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,259,5648,5248
+"Jan 16, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,286,6064,5616
+"Jan 17, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,132,1870,1496
+17-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,133,2312,1887
+2025-01-17,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,166,2754,2278
+17-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,152,2397,2023
+2025-01-17,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,160,2839,2414
+17/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,189,3281,2805
+2025-01-17,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,154,2924,2550
+17/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,190,3366,2941
+"Jan 17, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,183,3808,3332
+17/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,187,3451,3077
+"Jan 17, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,213,3893,3468
+17-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,199,4335,3859
+"Jan 17, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,189,3978,3604
+17-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,215,4420,3995
+2025-01-17,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,246,4862,4386
+17-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,221,4505,4131
+2025-01-17,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,242,4947,4522
+17/01/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,236,5389,4913
+2025-01-17,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,226,5032,4658
+17/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,261,5474,5049
+"Jan 17, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,262,5916,5440
+17/01/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,228,5559,5185
+"Jan 17, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,256,6001,5576
+17-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,291,6443,5967
+18-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,119,1980,1584
+2025-01-18,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,148,2448,1998
+18/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,151,2916,2412
+2025-01-18,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,149,2538,2142
+18/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,171,3006,2556
+"Jan 18, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,173,3474,2970
+18/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,156,3096,2700
+"Jan 18, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,202,3564,3114
+18-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,214,4032,3528
+"Jan 18, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,182,3654,3258
+18-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,184,4122,3672
+2025-01-18,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,216,4590,4086
+18-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,215,4212,3816
+2025-01-18,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,221,4680,4230
+18/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,255,5148,4644
+2025-01-18,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,211,4770,4374
+18/01/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,224,5238,4788
+"Jan 18, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,281,5706,5202
+18/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,236,5328,4932
+"Jan 18, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,244,5796,5346
+18-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,301,6264,5760
+"Jan 18, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,247,5886,5490
+18-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,297,6354,5904
+2025-01-18,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,315,6822,6318
+2025-01-19,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,130,2090,1672
+19/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,136,2584,2109
+"Jan 19, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,192,3078,2546
+19/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,138,2679,2261
+"Jan 19, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,156,3173,2698
+19-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,184,3667,3135
+"Jan 19, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,175,3268,2850
+19-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,182,3762,3287
+2025-01-19,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,226,4256,3724
+19-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,195,3857,3439
+2025-01-19,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,204,4351,3876
+19/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,228,4845,4313
+2025-01-19,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,196,4446,4028
+19/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,230,4940,4465
+"Jan 19, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,270,5434,4902
+19/01/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,215,5035,4617
+"Jan 19, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,257,5529,5054
+19-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,274,6023,5491
+"Jan 19, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,250,5624,5206
+19-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,266,6118,5643
+2025-01-19,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,277,6612,6080
+19-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,249,6213,5795
+2025-01-19,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,294,6707,6232
+19/01/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,318,7201,6669
+20/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,128,2200,1760
+"Jan 20, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,165,2720,2220
+20-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,174,3240,2680
+"Jan 20, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,142,2820,2380
+20-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,172,3340,2840
+2025-01-20,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,216,3860,3300
+20-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,173,3440,3000
+2025-01-20,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,200,3960,3460
+20/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,204,4480,3920
+2025-01-20,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,191,4060,3620
+20/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,233,4580,4080
+"Jan 20, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,256,5100,4540
+20/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,208,4680,4240
+"Jan 20, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,232,5200,4700
+20-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,253,5720,5160
+"Jan 20, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,239,5300,4860
+20-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,252,5820,5320
+2025-01-20,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,286,6340,5780
+20-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,240,5920,5480
+2025-01-20,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,262,6440,5940
+20/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,283,6960,6400
+2025-01-20,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,286,6540,6100
+20/01/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,308,7060,6560
+"Jan 20, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,307,7580,7020
+"Jan 21, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,147,2310,1848
+21-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,150,2856,2331
+2025-01-21,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,209,3402,2814
+21-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,169,2961,2499
+2025-01-21,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,192,3507,2982
+21/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,196,4053,3465
+2025-01-21,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,177,3612,3150
+21/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,221,4158,3633
+"Jan 21, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,244,4704,4116
+21/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,192,4263,3801
+"Jan 21, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,218,4809,4284
+21-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,268,5355,4767
+"Jan 21, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,215,4914,4452
+21-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,263,5460,4935
+2025-01-21,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,250,6006,5418
+21-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,246,5565,
+2025-01-21,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,246,6111,5586
+21/01/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,278,6657,6069
+2025-01-21,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,269,6216,5754
+21/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,295,6762,6237
+"Jan 21, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,293,7308,6720
+21/01/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,291,6867,6405
+"Jan 21, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,306,7413,6888
+21-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,332,7959,7371
+22-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,137,2420,1936
+2025-01-22,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,192,2992,2442
+22/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,209,3564,2948
+2025-01-22,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,166,3102,2618
+22/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,190,3674,3124
+"Jan 22, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,205,4246,3630
+22/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,202,3784,3300
+"Jan 22, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,205,4356,3806
+22-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,240,4928,4312
+"Jan 22, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,207,4466,3982
+22-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,235,5038,4488
+2025-01-22,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,246,5610,4994
+22-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,241,5148,4664
+2025-01-22,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,239,5720,5170
+22/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,260,6292,5676
+2025-01-22,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,247,5830,5346
+22/01/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,281,6402,5852
+"Jan 22, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,303,6974,6358
+22/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,263,6512,6028
+"Jan 22, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,302,7084,6534
+22-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,326,7656,7040
+"Jan 22, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,279,7194,6710
+22-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,318,7766,7216
+2025-01-22,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,330,8338,7722
+2025-01-23,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,68,2530,2024
+23/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,80,3128,2553
+"Jan 23, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,134,3726,3082
+23/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,99,3243,2737
+"Jan 23, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,99,3841,3266
+23-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,125,4439,3795
+"Jan 23, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,110,3956,3450
+23-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,122,4554,3979
+2025-01-23,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,144,5152,4508
+23-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,119,4669,4163
+2025-01-23,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,166,5267,4692
+23/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,168,5865,5221
+2025-01-23,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,163,5382,4876
+23/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,156,5980,5405
+"Jan 23, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,187,6578,5934
+23/01/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,186,6095,5589
+"Jan 23, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,190,6693,6118
+23-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,210,7291,6647
+"Jan 23, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,177,6808,6302
+23-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,215,7406,6831
+2025-01-23,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,241,8004,7360
+23-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,195,7521,7015
+2025-01-23,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,249,8119,7544
+23/01/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,236,8717,8073
+24/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,75,2640,2112
+"Jan 24, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,103,3264,2664
+24-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,145,3888,3216
+"Jan 24, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,110,3384,2856
+24-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,118,4008,3408
+2025-01-24,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,134,4632,3960
+24-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,112,4128,3600
+2025-01-24,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,144,4752,4152
+24/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,179,5376,4704
+2025-01-24,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,123,4872,4344
+24/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,181,5496,4896
+"Jan 24, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,196,6120,5448
+24/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,172,5616,5088
+"Jan 24, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,169,6240,5640
+24-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,197,6864,6192
+"Jan 24, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,196,6360,5832
+24-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,203,6984,6384
+2025-01-24,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,206,7608,6936
+24-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,214,7104,6576
+2025-01-24,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,221,7728,7128
+24/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,236,8352,7680
+2025-01-24,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,201,7848,7320
+24/01/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,257,8472,7872
+"Jan 24, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,257,9096,8424
+"Jan 25, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,103,2750,2200
+25-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,114,3400,2775
+2025-01-25,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,120,4050,3350
+25-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,115,3525,2975
+2025-01-25,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,134,4175,3550
+25/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,156,4825,4125
+2025-01-25,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,123,4300,3750
+25/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,139,4950,4325
+"Jan 25, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,179,5600,4900
+25/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,142,5075,4525
+"Jan 25, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,155,5725,5100
+25-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,181,6375,5675
+"Jan 25, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,158,5850,5300
+25-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,197,6500,5875
+2025-01-25,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,217,7150,6450
+25-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,202,6625,6075
+2025-01-25,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,205,7275,6650
+25/01/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,239,7925,7225
+2025-01-25,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,223,7400,6850
+25/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,211,8050,7425
+"Jan 25, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,260,8700,8000
+25/01/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,209,8175,7625
+"Jan 25, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,228,8825,8200
+25-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,279,9475,8775
+26-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,116,2860,2288
+2025-01-26,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,116,3536,2886
+26/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,143,4212,3484
+2025-01-26,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,129,3666,3094
+26/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,136,4342,3692
+"Jan 26, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,167,5018,4290
+26/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,135,4472,3900
+"Jan 26, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,144,5148,4498
+26-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,182,5824,5096
+"Jan 26, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,153,5278,4706
+26-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,173,5954,5304
+2025-01-26,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,215,6630,5902
+26-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,191,6084,5512
+2025-01-26,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,202,6760,6110
+26/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,204,7436,6708
+2025-01-26,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,182,6890,6318
+26/01/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,205,7566,6916
+"Jan 26, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,255,8242,7514
+26/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,222,7696,7124
+"Jan 26, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,242,8372,7722
+26-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C, Example Labs C ,274,9048,8320
+"Jan 26, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,243,8502,7930
+26-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,254,9178,8528
+2025-01-26,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,262,9854,9126
+2025-01-27,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,94,2970,2376
+27/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,122,3672,2997
+"Jan 27, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,170,4374,3618
+27/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,114,3807,3213
+"Jan 27, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,138,4509,3834
+27-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,165,5211,4455
+"Jan 27, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,161,4644,4050
+27-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,151,5346,4671
+2025-01-27,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,186,6048,5292
+27-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,167,5481,4887
+2025-01-27,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,176,6183,5508
+27/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,225,6885,6129
+2025-01-27,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,179,6318,5724
+27/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,205,7020,6345
+"Jan 27, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,217,7722,6966
+27/01/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,217,7155,6561
+"Jan 27, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,213,7857,7182
+27-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,258,8559,7803
+"Jan 27, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,219,7992,7398
+27-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,240,8694,8019
+2025-01-27,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,278,9396,8640
+27-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,232,8829,8235
+2025-01-27,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,260,9531,8856
+27/01/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,282,10233,9477
+28/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,104,3080,2464
+"Jan 28, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,118,3808,3108
+28-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,158,4536,3752
+"Jan 28, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,147,3948,3332
+28-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,146,4676,3976
+2025-01-28,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,165,5404,4620
+28-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,155,4816,4200
+2025-01-28,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,187,5544,4844
+28/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,187,6272,5488
+2025-01-28,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,163,5684,5068
+28/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,183,6412,5712
+"Jan 28, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,213,7140,6356
+28/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,175,6552,5936
+"Jan 28, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,212,7280,6580
+28-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,247,8008,7224
+"Jan 28, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,206,7420,6804
+28-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,234,8148,7448
+2025-01-28,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,262,8876,8092
+28-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,247,8288,7672
+2025-01-28,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,262,9016,8316
+28/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,279,9744,8960
+2025-01-28,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,251,9156,8540
+28/01/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,276,9884,9184
+"Jan 28, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,275,10612,9828
+"Jan 29, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,139,3190,2552
+29-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,134,3944,3219
+2025-01-29,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,151,4698,3886
+29-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,128,4089,3451
+2025-01-29,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,158,4843,4118
+29/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,191,5597,4785
+2025-01-29,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,148,4988,4350
+29/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,200,5742,5017
+"Jan 29, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,203,6496,5684
+29/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,166,5887,5249
+"Jan 29, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,199,6641,5916
+29-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,223,7395,6583
+"Jan 29, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,185,6786,6148
+29-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,207,7540,6815
+2025-01-29,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,247,8294,7482
+29-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,208,7685,7047
+2025-01-29,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,248,8439,7714
+29/01/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,246,9193,8381
+2025-01-29,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,224,8584,7946
+29/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,259,9338,8613
+"Jan 29, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,284,10092,9280
+29/01/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,254,9483,8845
+"Jan 29, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,290,10237,9512
+29-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,286,10991,10179
+30-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,138,3300,2640
+2025-01-30,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,137,4080,3330
+30/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,157,4860,4020
+2025-01-30,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,152,4230,3570
+30/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,155,5010,4260
+"Jan 30, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,194,5790,4950
+30/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,157,5160,4500
+"Jan 30, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,178,5940,5190
+30-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,218,6720,5880
+"Jan 30, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,183,6090,5430
+30-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,229,6870,6120
+2025-01-30,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,233,7650,6810
+30-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,192,7020,6360
+2025-01-30,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,241,7800,7050
+30/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,253,8580,7740
+2025-01-30,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,238,7950,7290
+30/01/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,233,8730,7980
+"Jan 30, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,264,9510,8670
+30/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,249,8880,8220
+"Jan 30, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,265,9660,8910
+30-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,286,10440,9600
+"Jan 30, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,281,9810,9150
+30-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,270,10590,9840
+2025-01-30,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,291,11370,10530
+2025-01-31,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,154,3410,2728
+31/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,142,4216,3441
+"Jan 31, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,190,5022,4154
+31/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,141,4371,3689
+"Jan 31, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,162,5177,4402
+31-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,203,5983,5115
+"Jan 31, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,184,5332,4650
+31-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,196,6138,5363
+2025-01-31,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,230,6944,6076
+31-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,209,6293,5611
+2025-01-31,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,215,7099,6324
+31/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,241,7905,7037
+2025-01-31,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,217,7254,6572
+31/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,235,8060,7285
+"Jan 31, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,248,8866,7998
+31/01/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,225,8215,7533
+"Jan 31, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,248,9021,8246
+31-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,298,9827,8959
+"Jan 31, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,243,9176,8494
+31-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,277,9982,9207
+2025-01-31,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,282,10788,9920
+31-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,271,10137,9455
+2025-01-31,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,278,10943,10168
+31/01/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,299,11749,10881
+01/02/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,133,3520,2816
+"Feb 01, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,150,4352,3552
+01-Feb-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,202,5184,4288
+"Feb 01, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,179,4512,3808
+01-Feb-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,188,5344,4544
+2025-02-01,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,213,6176,5280
+01-Feb-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,193,5504,4800
+2025-02-01,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,191,6336,5536
+01/02/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,219,7168,6272
+2025-02-01,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,208,6496,5792
+01/02/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,225,7328,6528
+"Feb 01, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,240,8160,7264
+01/02/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,217,7488,6784
+"Feb 01, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,227,8320,7520
+01-Feb-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,270,9152,8256
+"Feb 01, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,239,8480,7776
+01-Feb-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,245,9312,8512
+2025-02-01,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,284,10144,9248
+01-Feb-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,278,9472,8768
+2025-02-01,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,300,10304,9504
+01/02/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,322,11136,10240
+2025-02-01,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,282,10464,9760
+01/02/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,320,11296,10496
+"Feb 01, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,338,12128,11232
+"Feb 02, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,140,3630,2904
+02-Feb-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,184,4488,3663
+2025-02-02,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,189,5346,4422
+02-Feb-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,156,4653,3927
+2025-02-02,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,193,5511,4686
+02/02/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,221,6369,5445
+2025-02-02,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,211,5676,4950
+02/02/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,211,6534,5709
+"Feb 02, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,220,7392,6468
+02/02/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,200,6699,5973
+"Feb 02, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,220,7557,6732
+02-Feb-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,274,8415,7491
+"Feb 02, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,242,7722,6996
+02-Feb-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,259,8580,7755
+2025-02-02,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,257,9438,8514
+02-Feb-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,261,8745,8019
+2025-02-02,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,291,9603,8778
+02/02/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,289,10461,9537
+2025-02-02,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,277,9768,9042
+02/02/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,306,10626,9801
+"Feb 02, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,321,11484,10560
+02/02/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,299,10791,10065
+"Feb 02, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,329,11649,10824
+02-Feb-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,323,12507,11583
+03-Feb-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,77,3740,2992
+2025-02-03,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,112,4624,3774
+03/02/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,104,5508,4556
+2025-02-03,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,91,4794,4046
+03/02/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,120,5678,4828
+"Feb 03, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,149,6562,5610
+03/02/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,121,5848,5100
+"Feb 03, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,140,6732,5882
+03-Feb-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,152,7616,6664
+"Feb 03, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,121,6902,6154
+03-Feb-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,144,7786,6936
+2025-02-03,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,172,8670,7718
+03-Feb-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,157,7956,7208
+2025-02-03,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,154,8840,7990
+03/02/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,207,9724,8772
+2025-02-03,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,173,9010,8262
+03/02/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,204,9894,9044
+"Feb 03, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,215,10778,9826
+03/02/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,204,10064,9316
+"Feb 03, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,192,10948,10098
+03-Feb-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,235,11832,10880
+"Feb 03, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,217,11118,10370
+03-Feb-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,227,12002,11152
+2025-02-03,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,270,12886,11934
+2025-02-04,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,93,3850,3080
+04/02/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,110,4760,3885
+"Feb 04, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,139,5670,4690
+04/02/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,96,4935,4165
+"Feb 04, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,122,5845,4970
+04-Feb-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,158,6755,5775
+"Feb 04, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,101,6020,5250
+04-Feb-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,152,6930,6055
+2025-02-04,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,148,7840,6860
+04-Feb-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,147,7105,6335
+2025-02-04,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,181,8015,7140
+04/02/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,192,8925,7945
+2025-02-04,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,176,8190,7420
+04/02/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,183,9100,8225
+"Feb 04, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,213,10010,9030
+04/02/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,191,9275,8505
+"Feb 04, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,189,10185,9310
+04-Feb-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,217,11095,10115
+"Feb 04, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,178,10360,9590
+04-Feb-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,220,11270,10395
+2025-02-04,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,251,12180,11200
+04-Feb-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,206,11445,10675
+2025-02-04,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,239,12355,11480
+04/02/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,252,13265,12285
+05/02/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,74,3960,3168
+"Feb 05, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,128,4896,3996
+05-Feb-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,146,5832,4824
+"Feb 05, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,111,5076,4284
+05-Feb-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,139,6012,5112
+2025-02-05,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,139,6948,5940
+05-Feb-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,124,6192,5400
+2025-02-05,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,156,7128,6228
+05/02/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,161,8064,7056
+2025-02-05,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,165,7308,6516
+05/02/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,155,8244,7344
+"Feb 05, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,205,9180,8172
+05/02/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,164,8424,7632
+"Feb 05, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,178,9360,8460
+05-Feb-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,198,10296,9288
+"Feb 05, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,192,9540,8748
+05-Feb-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,210,10476,9576
+2025-02-05,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,212,11412,10404
+05-Feb-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,205,10656,9864
+2025-02-05,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,224,11592,10692
+05/02/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,239,12528,11520
+2025-02-05,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,219,11772,10980
+05/02/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,231,12708,11808
+"Feb 05, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,254,13644,12636
+"Feb 06, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,83,4070,3256
+06-Feb-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,131,5032,4107
+2025-02-06,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,141,5994,4958
+06-Feb-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,103,5217,4403
+2025-02-06,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,152,6179,5254
+06/02/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,144,7141,6105
+2025-02-06,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,141,6364,5550
+06/02/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,175,7326,6401
+"Feb 06, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,166,8288,7252
+06/02/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,171,7511,6697
+"Feb 06, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,168,8473,7548
+06-Feb-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,190,9435,8399
+"Feb 06, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,159,8658,7844
+06-Feb-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,204,9620,8695
+2025-02-06,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,213,10582,9546
+06-Feb-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,189,9805,8991
+2025-02-06,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,227,10767,9842
+06/02/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,253,11729,10693
+2025-02-06,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,209,10952,10138
+06/02/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,251,11914,10989
+"Feb 06, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,270,12876,11840
+06/02/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,238,12099,11285
+"Feb 06, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,247,13061,12136
+06-Feb-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,290,14023,12987
+07-Feb-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,118,4180,3344
+2025-02-07,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,121,5168,4218
+07/02/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,144,6156,5092
+2025-02-07,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,131,5358,4522
+07/02/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,143,6346,5396
+"Feb 07, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,167,7334,6270
+07/02/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,126,6536,5700
+"Feb 07, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,162,7524,6574
+07-Feb-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,189,8512,7448
+"Feb 07, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,153,7714,6878
+07-Feb-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,186,8702,7752
+2025-02-07,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,211,9690,8626
+07-Feb-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,180,8892,8056
+2025-02-07,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,188,9880,8930
+07/02/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,210,10868,9804
+2025-02-07,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,217,10070,9234
+07/02/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,226,11058,10108
+"Feb 07, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,255,12046,10982
+07/02/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,219,11248,10412
+"Feb 07, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,253,12236,11286
+07-Feb-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,268,13224,12160
+"Feb 07, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,231,12426,11590
+07-Feb-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,265,13414,12464
+2025-02-07,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,274,14402,13338
+2025-02-08,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,109,4290,3432
+08/02/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,150,5304,4329
+"Feb 08, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,167,6318,5226
+08/02/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,117,5499,4641
+"Feb 08, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,137,6513,5538
+08-Feb-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,194,7527,6435
+"Feb 08, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,168,6708,5850
+08-Feb-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,184,7722,6747
+2025-02-08,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,186,8736,7644
+08-Feb-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,179,7917,7059
+2025-02-08,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,197,8931,7956
+08/02/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,215,9945,8853
+2025-02-08,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,181,9126,8268
+08/02/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,213,10140,9165
+"Feb 08, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,237,11154,10062
+08/02/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,190,10335,9477
+"Feb 08, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,246,11349,10374
+08-Feb-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,257,12363,11271
+"Feb 08, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,229,11544,10686
+08-Feb-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,258,12558,11583
+2025-02-08,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,273,13572,12480
+08-Feb-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,253,12753,11895
+2025-02-08,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,255,13767,12792
+08/02/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,295,14781,13689
+09/02/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,137,4400,3520
+"Feb 09, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,158,5440,4440
+09-Feb-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,163,6480,5360
+"Feb 09, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,125,5640,4760
+09-Feb-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,162,6680,5680
+2025-02-09,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,188,7720,6600
+09-Feb-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,157,6880,6000
+2025-02-09,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,177,7920,6920
+09/02/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,216,8960,7840
+2025-02-09,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,175,8120,7240
+09/02/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,220,9160,8160
+"Feb 09, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,217,10200,9080
+09/02/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,209,9360,8480
+"Feb 09, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,237,10400,9400
+09-Feb-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,255,11440,10320
+"Feb 09, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,232,10600,9720
+09-Feb-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,242,11640,10640
+2025-02-09,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,275,12680,11560
+09-Feb-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,230,11840,10960
+2025-02-09,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,241,12880,11880
+09/02/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,285,13920,12800
+2025-02-09,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,250,13080,12200
+09/02/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,283,14120,13120
+"Feb 09, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,313,15160,14040
+"Feb 10, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,143,4510,3608
+10-Feb-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,153,5576,4551
+2025-02-10,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,195,6642,5494
+10-Feb-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,134,5781,4879
+2025-02-10,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,157,6847,5822
+10/02/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,183,7913,6765
+2025-02-10,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,176,7052,6150
+10/02/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,173,8118,7093
+"Feb 10, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,233,9184,8036
+10/02/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,183,8323,7421
+"Feb 10, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,211,9389,8364
+10-Feb-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,223,10455,9307
+"Feb 10, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,192,9594,8692
+10-Feb-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,234,10660,9635
+2025-02-10,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,238,11726,10578
+10-Feb-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,227,10865,9963
+2025-02-10,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,261,11931,10906
+10/02/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,257,12997,11849
+2025-02-10,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,247,12136,11234
+10/02/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,256,13202,12177
+"Feb 10, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,281,14268,13120
+10/02/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,247,13407,12505
+"Feb 10, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,276,14473,13448
+10-Feb-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,315,15539,14391
+11-Feb-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,133,4620,3696
+2025-02-11,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,169,5712,4662
+11/02/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,175,6804,5628
+2025-02-11,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,168,5922,4998
+11/02/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,192,7014,5964
+"Feb 11, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,201,8106,6930
+11/02/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,169,7224,6300
+"Feb 11, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,214,8316,7266
+11-Feb-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,206,9408,8232
+"Feb 11, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,211,8526,7602
+11-Feb-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,219,9618,8568
+2025-02-11,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,224,10710,9534
+11-Feb-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,230,9828,8904
+2025-02-11,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,232,10920,9870
+11/02/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,244,12012,10836
+2025-02-11,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,228,11130,10206
+11/02/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,252,12222,11172
+"Feb 11, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,261,13314,12138
+11/02/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,240,12432,11508
+"Feb 11, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,272,13524,12474
+11-Feb-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,311,14616,13440
+"Feb 11, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,279,13734,12810
+11-Feb-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,310,14826,13776
+2025-02-11,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,332,15918,14742
+2025-02-12,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,149,4730,3784
+12/02/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,174,5848,4773
+"Feb 12, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,177,6966,5762
+12/02/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,150,6063,5117
+"Feb 12, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,203,7181,6106
+12-Feb-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,230,8299,7095
+"Feb 12, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,166,7396,6450
+12-Feb-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,199,8514,7439
+2025-02-12,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,239,9632,8428
+12-Feb-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,186,8729,7783
+2025-02-12,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,237,9847,8772
+12/02/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,238,10965,9761
+2025-02-12,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,214,10062,9116
+12/02/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,263,11180,10105
+"Feb 12, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,270,12298,11094
+12/02/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,253,11395,10449
+"Feb 12, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,260,12513,11438
+12-Feb-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,289,13631,12427
+"Feb 12, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,242,12728,11782
+12-Feb-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,278,13846,12771
+2025-02-12,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,312,14964,13760
+12-Feb-2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,266,14061,13115
+2025-02-12,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,320,15179,14104
+12/02/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,328,16297,15093
+13/02/2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,143,4840,3872
+"Feb 13, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,192,5984,4884
+13-Feb-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,196,7128,5896
+"Feb 13, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,192,6204,5236
+13-Feb-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,196,7348,6248
+2025-02-13,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,223,8492,7260
+13-Feb-2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,207,7568,6600
+2025-02-13,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,229,8712,7612
+13/02/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,219,9856,8624
+2025-02-13,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,207,8932,7964
+13/02/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,224,10076,8976
+"Feb 13, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,274,11220,9988
+13/02/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,226,10296,9328
+"Feb 13, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,251,11440,10340
+13-Feb-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,272,12584,11352
+"Feb 13, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,267,11660,10692
+13-Feb-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,262,12804,11704
+2025-02-13,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,276,13948,12716
+13-Feb-2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,286,13024,12056
+2025-02-13,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,309,14168,13068
+13/02/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,302,15312,14080
+2025-02-13,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,302,14388,13420
+13/02/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,298,15532,14432
+"Feb 13, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-C,Example Labs C,334,16676,15444
+"Feb 14, 2025",Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-A,Example Pharma A,78,4950,3960
+14-Feb-2025,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-B,Example Biologics B,89,6120,4995
+2025-02-14,Bangladesh,Dhaka,Dhaka,10200000,Synthetic-Vax-C,Example Labs C,125,7290,6030
+14-Feb-2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-A,Example Pharma A,95,6345,5355
+2025-02-14,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-B,Example Biologics B,118,7515,6390
+14/02/2025,Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,151,8685,7425
+2025-02-14,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-A,Example Pharma A,113,7740,6750
+14/02/2025,Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-B,Example Biologics B,132,8910,7785
+"Feb 14, 2025",Bangladesh,Chattogram,Chattogram,5000000,Synthetic-Vax-C,Example Labs C,141,10080,8820
+14/02/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-A,Example Pharma A,134,9135,8145
+"Feb 14, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-B,Example Biologics B,166,10305,9180
+14-Feb-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Synthetic-Vax-C,Example Labs C,172,11475,10215
+"Feb 14, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-A,Example Pharma A,168,10530,9540
+14-Feb-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-B,Example Biologics B,190,11700,10575
+2025-02-14,Bangladesh,Rajshahi,Rajshahi,2600000,Synthetic-Vax-C,Example Labs C,185,12870,11610
+14-Feb-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,163,11925,10935
+2025-02-14,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-B,Example Biologics B,184,13095,11970
+14/02/2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,198,14265,13005
+2025-02-14,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-A,Example Pharma A,205,13320,12330
+14/02/2025,Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-B,Example Biologics B,201,14490,13365
+"Feb 14, 2025",Bangladesh,Sylhet,Sylhet,1900000,Synthetic-Vax-C,Example Labs C,250,15660,14400
+14/02/2025,Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-A,Example Pharma A,211,14715,13725
+"Feb 14, 2025",Bangladesh,Barishal,Barishal,1200000,Synthetic-Vax-B,Example Biologics B,248,15885,14760
+14-Feb-2025,Bangladesh,Barishal,Barishal ,1200000,Synthetic-Vax-C,Example Labs C,260,17055,15795
+01-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-A,Example Pharma A,164,265,243
+"Jan 22, 2025",Bangladesh,Dhaka,Gazipur,5200000,Synthetic-Vax-C,Example Labs C,205,4246,3630
+"Feb 11, 2025",Bangladesh,Khulna,Khulna,2500000,Synthetic-Vax-C,Example Labs C,261,13314,12138

@@ -1,0 +1,364 @@
+﻿report_date,country,division,district,population,new_cases,total_cases,deaths,recoveries,icu_patients
+2025-01-01,Bangladesh,Dhaka,Dhaka,10200000,8,8,0,7,0
+01/01/2025,Bangladesh,Dhaka,Gazipur,5200000,8,8,0,7,0
+"Jan 01, 2025",Bangladesh,Chattogram,Chattogram,5000000,16,16,0,15,0
+01-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,14,14,0,13,0
+2025-01-01,Bangladesh,Rajshahi,Rajshahi,2600000,21,21,0,19,1
+01/01/2025,Bangladesh,Khulna,Khulna,2500000,17,17,0,15,0
+"Jan 01, 2025",Bangladesh,Sylhet,Sylhet,1900000,24,24,0,22,1
+01-Jan-2025,Bangladesh,Barishal,Barishal,1200000,27,27,0,25,1
+02/01/2025,Bangladesh,Dhaka,Dhaka,10200000,9,17,0,15,0
+"Jan 02, 2025",Bangladesh,Dhaka,Gazipur,5200000,15,23,0,21,0
+02-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,15,31,0,28,0
+2025-01-02,Bangladesh,Chattogram,Cox's Bazar,2800000,20,34,0,31,1
+02/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,21,42,1,38,1
+"Jan 02, 2025",Bangladesh,Khulna,Khulna,2500000,22,39,0,35,1
+02-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,26,50,1,46,1
+2025-01-02,Bangladesh,Barishal,Barishal,1200000,28,55,1,50,1
+"Jan 03, 2025",Bangladesh,Dhaka,Dhaka,10200000,15,32,0,29,0
+03-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,14,37,0,34,0
+2025-01-03,Bangladesh,Chattogram,Chattogram,5000000,18,49,1,45,0
+03/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,20,54,1,49,1
+"Jan 03, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,19,61,1,56,0
+03-Jan-2025,Bangladesh,Khulna,Khulna,2500000,27,66,1,60,1
+2025-01-03,Bangladesh,Sylhet,Sylhet,1900000,23,73,1,66,1
+03/01/2025,Bangladesh,Barishal,Barishal,1200000,29,84,1,76,1
+04-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,10,42,1,38,0
+2025-01-04,Bangladesh,Dhaka,Gazipur,,18,55,1,50,0
+04/01/2025,Bangladesh,Chattogram,Chattogram,5000000,19,68,1,62,0
+"Jan 04, 2025",Bangladesh,Chattogram,Coxs Bazar,2800000,20,74,1,67,1
+04-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,27,88,1,80,1
+2025-01-04,Bangladesh,Khulna,Khulna,2500000,29,95,1,86,1
+04/01/2025,Bangladesh,Sylhet,Sylhet,1900000,26,99,1,90,1
+"Jan 04, 2025",Bangladesh,Barishal,Barishal,1200000,27,111,1,101,1
+2025-01-05,Bangladesh,Dhaka,Dhaka,10200000,14,56,1,51,0
+05/01/2025,Bangladesh,Dhaka,Gazipur,5200000,21,76,1,69,1
+"Jan 05, 2025",Bangladesh,Chattogram,Chattogram,5000000,19,87,1,79,0
+05-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,24,98,1,89,1
+2025-01-05,Bangladesh,Rajshahi,Rajshahi,2600000,25,113,1,103,1
+05/01/2025,Bangladesh,Khulna,Khulna,2500000,26,121,1,110,1
+"Jan 05, 2025",Bangladesh,Sylhet,Sylhet,1900000,28,127,2,116,1
+05-Jan-2025,Bangladesh,Barishal,Barishal,1200000,34,145,2,132,1
+06/01/2025,Bangladesh,Dhaka,Dhaka,10200000,20,76,1,69,1
+"Jan 06, 2025",Bangladesh,Dhaka,Gazipur,5200000,17,93,1,85,0
+06-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,19,106,1,96,0
+2025-01-06,Bangladesh,Chattogram,Cox's Bazar,2800000,28,126,2,115,1
+06/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,24,137,2,125,1
+"Jan 06, 2025",Bangladesh,Khulna,Khulna,2500000,27,148,2,135,1
+06-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,28,155,2,141,1
+2025-01-06,Bangladesh,Barishal,Barishal,1200000,30,175,2,159,1
+"Jan 07, 2025",Bangladesh,Dhaka,Dhaka,10200000,17,93,1,85,0
+07-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,19,112,1,102,0
+2025-01-07,Bangladesh,Chattogram,Chattogram,5000000,25,131,2,119,1
+07/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,27,153,2,139,1
+"Jan 07, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,31,168,2,153,1
+07-Jan-2025,Bangladesh,Khulna,Khulna,2500000,31,179,2,163,1
+2025-01-07,Bangladesh,Sylhet,Sylhet,1900000,33,188,2,171,1
+07/01/2025,Bangladesh,Barishal,Barishal,1200000,35,210,3,191,1
+08-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,24,117,1,106,1
+2025-01-08,Bangladesh,Dhaka,Gazipur,5200000,26,138,2,126,1
+08/01/2025,Bangladesh,Chattogram,Chattogram,5000000,28,159,2,145,1
+"Jan 08, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,26,179,2,163,1
+08-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,30,198,2,180,1
+2025-01-08,Bangladesh,Khulna,Khulna,2500000,31,210,3,191,1
+08/01/2025,Bangladesh,Sylhet,Sylhet,1900000,34,222,3,202,1
+"Jan 08, 2025",Bangladesh,Barishal,Barishal,1200000,38,248,3,226,1
+2025-01-09,Bangladesh,Dhaka,Dhaka,10200000,19,136,2,124,0
+09/01/2025,Bangladesh,Dhaka,Gazipur,5200000,25,163,2,148,1
+"Jan 09, 2025",Bangladesh,Chattogram,Chattogram,5000000,unknown,184,2,167,1
+09-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,33,212,3,193,1
+2025-01-09,Bangladesh,Rajshahi,Rajshahi,2600000,31,229,3,208,1
+09/01/2025,Bangladesh,Khulna,Khulna,2500000,30,240,3,218,1
+"Jan 09, 2025",Bangladesh,Sylhet,Sylhet,1900000,39,261,3,238,1
+09-Jan-2025,Bangladesh,Barishal,Barishal,1200000,39,287,3,261,1
+10/01/2025,Bangladesh,Dhaka,Dhaka,10200000,10,146,2,133,0
+"Jan 10, 2025",Bangladesh,Dhaka,Gazipur,5200000,9,172,2,157,0
+10-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,16,200,2,182,0
+2025-01-10,Bangladesh,Chattogram,Cox's Bazar,2800000,19,231,3,210,0
+10/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,17,246,3,224,0
+"Jan 10, 2025",Bangladesh,Khulna,Khulna,2500000,21,261,3,238,1
+10-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,25,286,3,260,1
+2025-01-10,Bangladesh,Barishal,Barishal,1200000,22,309,4,281,1
+"Jan 11, 2025",Bangladesh,Dhaka,Dhaka,10200000,7,153,2,139,0
+11-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,12,184,2,167,0
+2025-01-11,Bangladesh,Chattogram,Chattogram,5000000,12,212,3,193,0
+11/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,18,249,3,227,0
+"Jan 11, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,18,264,3,240,0
+11-Jan-2025,Bangladesh,Khulna,Khulna,2500000,24,285,3,259,1
+2025-01-11,Bangladesh,Sylhet,Sylhet,1900000,22,308,4,280,1
+11/01/2025,Bangladesh,Barishal,Barishal,1200000,25,334,4,304,1
+12-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,15,168,2,153,0
+2025-01-12,Bangladesh,Dhaka,Gazipur,5200000,15,199,2,181,0
+12/01/2025,Bangladesh,Chattogram,Chattogram,5000000,18,230,3,209,0
+"Jan 12, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,21,270,3,246,1
+12-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,21,285,3,259,1
+2025-01-12,Bangladesh,Khulna,Khulna,2500000,20,305,4,278,1
+12/01/2025,Bangladesh,Sylhet,Sylhet,1900000,23,331,4,301,1
+"Jan 12, 2025",Bangladesh,Barishal,Barishal,1200000,26,360,4,328,1
+2025-01-13,Bangladesh,Dhaka,Dhaka,10200000,12,180,2,164,0
+13/01/2025,Bangladesh,Dhaka,Gazipur,5200000,15,214,3,195,0
+"Jan 13, 2025",Bangladesh,Chattogram,Chattogram,5000000,20,250,3,228,1
+13-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,21,291,3,265,1
+2025-01-13,Bangladesh,Rajshahi,Rajshahi,2600000,24,-12,4,281,1
+13/01/2025,Bangladesh,Khulna,Khulna,2500000,23,328,4,298,1
+"Jan 13, 2025",Bangladesh,Sylhet,Sylhet,1900000,27,358,4,326,1
+13-Jan-2025,Bangladesh,Barishal,Barishal,1200000,28,388,5,353,1
+14/01/2025,Bangladesh,Dhaka,Dhaka,10200000,18,198,2,180,0
+"Jan 14, 2025",Bangladesh,Dhaka,Gazipur,5200000,14,228,3,207,0
+14-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,19,269,3,245,0
+2025-01-14,Bangladesh,Chattogram,Cox's Bazar,2800000,24,315,4,287,1
+14/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,25,334,4,304,1
+"Jan 14, 2025",Bangladesh,Khulna,Khulna,2500000,24,352,4,320,1
+14-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,30,388,5,353,1
+2025-01-14,Bangladesh,Barishal,Barishal,1200000,28,416,5,379,1
+"Jan 15, 2025",Bangladesh,Dhaka,Dhaka,10200000,20,218,3,198,1
+15-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,18,246,3,224,0
+2025-01-15,Bangladesh,Chattogram,Chattogram,5000000,19,288,3,262,0
+15/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,26,341,4,310,1
+"Jan 15, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,26,360,4,328,1
+15-Jan-2025,Bangladesh,Khulna,Khulna,2500000,32,384,5,349,1
+2025-01-15,Bangladesh,Sylhet,Sylhet,1900000,28,416,5,379,1
+15/01/2025,Bangladesh,Barishal,Barishal,1200000,34,450,5,410,1
+16-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,16,234,3,213,0
+2025-01-16,Bangladesh,Dhaka,Gazipur,5200000,20,266,3,242,1
+16/01/2025,Bangladesh,Chattogram,Chattogram,5000000,22,310,4,282,1
+"Jan 16, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,23,364,4,331,1
+16-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,25,385,5,350,1
+2025-01-16,Bangladesh,Khulna,Khulna,2500000,27,411,5,374,1
+16/01/2025,Bangladesh,Sylhet,Sylhet,1900000,31,447,5,407,1
+"Jan 16, 2025",Bangladesh,Barishal,Barishal,1200000,34,484,6,440,1
+2025-01-17,Bangladesh,Dhaka,Dhaka,10200000,21,255,3,232,1
+17/01/2025,Bangladesh,Dhaka,Gazipur,5200000,19,285,3,259,0
+"Jan 17, 2025",Bangladesh,Chattogram,Chattogram,5000000,23,333,4,303,1
+17-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,24,388,5,353,1
+2025-01-17,Bangladesh,Rajshahi,Rajshahi,2600000,30,415,5,378,1
+17/01/2025,Bangladesh,Khulna,Khulna,2500000,33,444,5,404,1
+"Jan 17, 2025",Bangladesh,Sylhet,Sylhet,1900000,36,483,6,440,1
+17-Jan-2025,Bangladesh,Barishal,Barishal,1200000,38,522,6,475,1
+18/01/2025,Bangladesh,Dhaka,Dhaka,10200000,23,278,3,253,1
+"Jan 18, 2025",Bangladesh,Dhaka,Gazipur,5200000,24,309,4,281,1
+18-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,25,358,4,326,1
+2025-01-18,Bangladesh,Chattogram,Cox's Bazar,2800000,30,418,5,380,1
+18/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,29,444,5,404,1
+"Jan 18, 2025",Bangladesh,Khulna,Khulna,2500000,30,474,6,431,1
+18-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,34,517,6,470,1
+2025-01-18,Bangladesh,Barishal,Barishal,1200000,37,559,7,509,1
+"Jan 19, 2025",Bangladesh,Dhaka,Dhaka,10200000,8,286,3,260,0
+19-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,13,322,4,293,0
+2025-01-19,Bangladesh,Chattogram,Chattogram,5000000,12,370,4,337,0
+19/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,17,435,5,396,0
+"Jan 19, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,19,463,6,421,0
+19-Jan-2025,Bangladesh,Khulna,Khulna,2500000,17,491,6,,0
+2025-01-19,Bangladesh,Sylhet,Sylhet,1900000,21,538,6,490,1
+19/01/2025,Bangladesh,Barishal,Barishal,1200000,24,583,7,531,1
+20-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,13,299,4,272,0
+2025-01-20,Bangladesh,Dhaka,Gazipur,5200000,11,333,4,303,0
+20/01/2025,Bangladesh,Chattogram,Chattogram,5000000,15,385,5,350,0
+"Jan 20, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,20,455,5,414,1
+20-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,22,485,6,441,1
+2025-01-20,Bangladesh,Khulna,Khulna,2500000,23,514,6,468,1
+20/01/2025,Bangladesh,Sylhet,Sylhet,1900000,27,565,7,514,1
+"Jan 20, 2025",Bangladesh,Barishal,Barishal,1200000,30,613,7,558,1
+2025-01-21,Bangladesh,Dhaka,Dhaka,10200000,14,313,4,285,0
+21/01/2025,Bangladesh,Dhaka,Gazipur,5200000,13,346,4,315,0
+"Jan 21, 2025",Bangladesh,Chattogram,Chattogram,5000000,16,401,5,365,0
+21-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,20,475,6,432,1
+2025-01-21,Bangladesh,Rajshahi,Rajshahi,2600000,24,509,6,463,1
+21/01/2025,Bangladesh,Khulna,Khulna,2500000,20,534,6,486,1
+"Jan 21, 2025",Bangladesh,Sylhet,Sylhet,1900000,24,589,7,536,1
+21-Jan-2025,Bangladesh,Barishal,Barishal,1200000,29,642,8,584,1
+22/01/2025,Bangladesh,Dhaka,Dhaka,10200000,10,323,4,294,0
+"Jan 22, 2025",Bangladesh,Dhaka,Gazipur,5200000,18,364,4,331,0
+22-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,18,419,5,381,0
+2025-01-22,Bangladesh,Chattogram,Cox's Bazar,2800000,18,493,6,449,0
+22/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,24,533,6,485,1
+"Jan 22, 2025",Bangladesh,Khulna,Khulna,2500000,25,559,7,509,1
+22-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,31,620,7,564,1
+2025-01-22,Bangladesh,Barishal,Barishal,1200000,32,674,8,613,1
+"Jan 23, 2025",Bangladesh,Dhaka,Dhaka,10200000,12,335,4,305,0
+23-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,19,383,5,349,0
+2025-01-23,Bangladesh,Chattogram,Chattogram,5000000,19,438,5,399,0
+23/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,21,514,6,468,1
+"Jan 23, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,21,554,7,504,1
+23-Jan-2025,Bangladesh,Khulna,Khulna,2500000,30,589,7,536,1
+2025-01-23,Bangladesh,Sylhet,Sylhet,1900000,32,652,8,593,-2
+23/01/2025,Bangladesh,Barishal,Barishal,1200000,29,703,8,640,1
+24-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,18,353,4,321,0
+2025-01-24,Bangladesh,Dhaka,Gazipur,5200000,21,404,5,368,1
+24/01/2025,Bangladesh,Chattogram,Chattogram,5000000,24,462,6,420,1
+"Jan 24, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,27,541,6,492,1
+24-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,26,580,7,528,1
+2025-01-24,Bangladesh,Khulna,Khulna,2500000,26,615,7,560,1
+24/01/2025,Bangladesh,Sylhet,Sylhet,1900000,35,687,8,625,1
+"Jan 24, 2025",Bangladesh,Barishal,Barishal,1200000,36,739,9,672,1
+2025-01-25,Bangladesh,Dhaka,Dhaka,10200000,19,372,4,339,0
+25/01/2025,Bangladesh,Dhaka,Gazipur,5200000,19,423,5,385,0
+"Jan 25, 2025",Bangladesh,Chattogram,Chattogram,5000000,27,489,6,445,1
+25-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,26,567,7,516,1
+2025-01-25,Bangladesh,Rajshahi,Rajshahi,2600000,31,611,7,556,1
+25/01/2025,Bangladesh,Khulna,Khulna,2500000,34,649,8,591,1
+"Jan 25, 2025",Bangladesh,Sylhet,Sylhet,1900000,35,722,9,657,1
+25-Jan-2025,Bangladesh,Barishal,Barishal,1200000,33,772,9,703,1
+26/01/2025,Bangladesh,Dhaka,Dhaka,10200000,19,391,5,356,0
+"Jan 26, 2025",Bangladesh,Dhaka,Gazipur,5200000,24,447,5,407,1
+26-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,29,518,6,471,1
+2025-01-26,Bangladesh,Chattogram,Cox's Bazar,2800000,29,596,7,542,1
+26/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,31,642,8,584,1
+"Jan 26, 2025",Bangladesh,Khulna,Khulna,2500000,31,680,8,619,1
+26-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,37,759,9,691,1
+2025-01-26,Bangladesh,Barishal,Barishal,1200000,39,811,10,738,1
+"Jan 27, 2025", Bangladesh ,Dhaka,Dhaka,10200000,18,409,5,372,0
+27-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,24,471,6,429,1
+2025-01-27,Bangladesh,Chattogram,Chattogram,5000000,23,541,6,492,1
+27/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,28,624,7,568,1
+"Jan 27, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,29,671,8,611,1
+27-Jan-2025,Bangladesh,Khulna,Khulna,2500000,36,716,9,652,1
+2025-01-27,Bangladesh,Sylhet,Sylhet,1900000,33,792,10,721,1
+27/01/2025,Bangladesh,Barishal,Barishal,1200000,39,850,10,774,1
+28-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,11,420,5,382,0
+2025-01-28,Bangladesh,Dhaka,Gazipur,5200000,14,485,6,441,0
+28/01/2025,Bangladesh,Chattogram,Chattogram,5000000,16,557,7,507,0
+"Jan 28, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,13,637,8,580,0
+28-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,17,688,8,626,0
+2025-01-28,Bangladesh,Khulna,Khulna,2500000,20,736,9,670,1
+28/01/2025,Bangladesh,Sylhet,Sylhet,1900000,25,817,10,743,1
+"Jan 28, 2025",Bangladesh,Barishal,Barishal,1200000,22,872,10,794,1
+2025-01-29,Bangladesh,Dhaka,Dhaka,10200000,8,428,5,389,0
+29/01/2025,Bangladesh,Dhaka,Gazipur,5200000,13,498,6,453,0
+"Jan 29, 2025",Bangladesh,Chattogram,Chattogram,5000000,18,575,7,523,0
+29-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,21,658,8,599,1
+2025-01-29,Bangladesh,Rajshahi,Rajshahi,2600000,18,706,8,642,0
+29/01/2025,Bangladesh,Khulna,Khulna,2500000,25,761,9,693,1
+"Jan 29, 2025",Bangladesh,Sylhet,Sylhet,1900000,27,844,10,768,1
+29-Jan-2025,Bangladesh,Barishal,Barishal,1200000,27,899,11,818,1
+30/01/2025,Bangladesh,Dhaka,Dhaka,10200000,13,441,5,401,0
+"Jan 30, 2025",Bangladesh,Dhaka,Gazipur,5200000,12,510,6,464,0
+30-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,16,591,7,538,0
+2025-01-30,Bangladesh,Chattogram,Cox's Bazar,2800000,21,679,8,618,1
+30/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,25,731,9,665,1
+"Jan 30, 2025",Bangladesh,Khulna,Khulna,2500000,24,785,9,714,1
+30-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,27,871,10,793,1
+2025-01-30,Bangladesh,Barishal,Barishal,1200000,27,926,11,843,1
+"Jan 31, 2025",Bangladesh,Dhaka,Dhaka,10200000,15,456,5,415,0
+31-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,14,524,6,477,0
+2025-01-31,Bangladesh,Chattogram,Chattogram,5000000,15,606,7,551,0
+31/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,18,697,8,634,0
+"Jan 31, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,21,752,9,684,1
+31-Jan-2025,Bangladesh,Khulna,Khulna,2500000,29,814,10,741,1
+2025-01-31,Bangladesh,Sylhet,Sylhet,1900000,25,896,11,815,1
+31/01/2025,Bangladesh,Barishal,Barishal,1200000,30,956,11,870,1
+01-Feb-2025,Bangladesh,Dhaka,Dhaka,10200000,17,473,6,430,0
+2025-02-01,Bangladesh,Dhaka,Gazipur,5200000,20,544,7,495,1
+01/02/2025,Bangladesh,Chattogram,Chattogram,5000000,21,627,8,571,1
+"Feb 01, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,26,723,9,658,1
+01-Feb-2025,Bangladesh,Rajshahi,Rajshahi,2600000,27,779,9,709,1
+2025-02-01,Bangladesh,Khulna,Khulna,2500000,24,838,10,763,1
+01/02/2025,Bangladesh,Sylhet,Sylhet,1900000,28,924,11,841,1
+"Feb 01, 2025",Bangladesh,Barishal,Barishal,1200000,35,991,12,902,1
+2025-02-02,Bangladesh,Dhaka,Dhaka,10200000,14,487,6,443,0
+02/02/2025,Bangladesh,Dhaka,Gazipur,5200000,19,563,7,512,0
+"Feb 02, 2025",Bangladesh,Chattogram,Chattogram,5000000,24,651,8,592,1
+02-Feb-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,26,749,9,682,1
+2025-02-02,Bangladesh,Rajshahi,Rajshahi,2600000,29,808,10,735,1
+02/02/2025,Bangladesh,Khulna,Khulna,2500000,25,863,10,785,1
+"Feb 02, 2025",Bangladesh,Sylhet,Sylhet,1900000,31,955,11,869,1
+02-Feb-2025,Bangladesh,Barishal,Barishal,1200000,30,1021,12,929,1
+03/02/2025,Bangladesh,Dhaka,Dhaka,10200000,22,509,6,463,1
+"Feb 03, 2025",Bangladesh,Dhaka,Gazipur,5200000,19,582,7,530,0
+03-Feb-2025,Bangladesh,Chattogram,Chattogram,5000000,22,673,8,612,1
+2025-02-03,Bangladesh,Chattogram,Cox's Bazar,2800000,29,778,9,708,1
+03/02/2025,Bangladesh,Rajshahi,Rajshahi,2600000,28,836,10,761,1
+"Feb 03, 2025",Bangladesh,Khulna,Khulna,2500000,30,893,11,813,1
+03-Feb-2025,Bangladesh,Sylhet,Sylhet,1900000,33,988,12,899,1
+2025-02-03,Bangladesh,Barishal,Barishal,1200000,35,1056,13,961,1
+"Feb 04, 2025",Bangladesh,Dhaka,Dhaka,10200000,21,530,6,482,1
+04-Feb-2025,Bangladesh,Dhaka,Gazipur,5200000,21,603,7,549,1
+2025-02-04,Bangladesh,Chattogram,Chattogram,5000000,28,701,8,638,1
+04/02/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,25,803,10,731,1
+"Feb 04, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,32,868,10,790,1
+04-Feb-2025,Bangladesh,Khulna,Khulna,2500000,36,929,11,845,1
+2025-02-04,Bangladesh,Sylhet,Sylhet,1900000,34,1022,12,930,1
+04/02/2025,Bangladesh,Barishal,Barishal,1200000,37,1093,13,995,1
+05-Feb-2025,Bangladesh,Dhaka,Dhaka,10200000,24,554,7,504,1
+2025-02-05,Bangladesh,Dhaka,Gazipur,5200000,24,627,8,571,1
+05/02/2025,Bangladesh,Chattogram,Chattogram,5000000,23,724,9,659,1
+"Feb 05, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,33,836,10,761,1
+05-Feb-2025,Bangladesh,Rajshahi,Rajshahi,2600000,28,896,11,815,1
+2025-02-05,Bangladesh,Khulna,Khulna,2500000,32,961,12,875,1
+05/02/2025,Bangladesh,Sylhet,Sylhet,1900000,40,1062,13,966,1
+"Feb 05, 2025",Bangladesh,Barishal,Barishal,1200000,41,1134,14,1032,1
+2025-02-06,Bangladesh,Dhaka,Dhaka,10200000,9,563,7,512,0
+06/02/2025,Bangladesh,Dhaka,Gazipur,5200000,8,635,8,578,0
+"Feb 06, 2025",Bangladesh,Chattogram,Chattogram,5000000,17,741,9,674,0
+06-Feb-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,16,852,10,775,0
+2025-02-06,Bangladesh,Rajshahi,Rajshahi,2600000,15,911,11,829,0
+06/02/2025,Bangladesh,Khulna,Khulna,2500000,21,982,12,894,1
+"Feb 06, 2025",Bangladesh,Sylhet,Sylhet,1900000,21,1083,13,986,1
+06-Feb-2025,Bangladesh,Barishal,Barishal,1200000,29,1163,14,1058,1
+07/02/2025,Bangladesh,Dhaka,Dhaka,10200000,9,572,7,521,0
+"Feb 07, 2025",Bangladesh,Dhaka,Gazipur,5200000,12,647,8,589,0
+07-Feb-2025,Bangladesh,Chattogram,Chattogram,5000000,12,753,9,685,0
+2025-02-07,Bangladesh,Chattogram,Cox's Bazar,2800000,21,873,10,794,1
+07/02/2025,Bangladesh,Rajshahi,Rajshahi,2600000,21,932,11,848,1
+"Feb 07, 2025",Bangladesh,Khulna,Khulna,2500000,26,1008,12,917,1
+07-Feb-2025,Bangladesh,Sylhet,Sylhet,1900000,21,1104,13,1005,1
+2025-02-07,Bangladesh,Barishal,Barishal,1200000,26,1189,14,1082,1
+"Feb 08, 2025",Bangladesh,Dhaka,Dhaka,10200000,14,586,7,533,0
+08-Feb-2025,Bangladesh,Dhaka,Gazipur,5200000,13,660,8,601,0
+2025-02-08,Bangladesh,Chattogram,Chattogram,5000000,13,766,9,697,0
+08/02/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,22,895,11,814,1
+"Feb 08, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,20,952,11,866,1
+08-Feb-2025,Bangladesh,Khulna,Khulna,2500000,24,1032,12,939,1
+2025-02-08,Bangladesh,Sylhet,Sylhet,1900000,30,1134,14,1032,1
+08/02/2025,Bangladesh,Barishal,Barishal,1200000,30,1219,15,1109,1
+09-Feb-2025,Bangladesh,Dhaka,Dhaka,10200000,13,599,7,545,0
+2025-02-09,Bangladesh,Dhaka,Gazipur,5200000,12,672,8,612,0
+09/02/2025,Bangladesh,Chattogram,Chattogram,5000000,15,781,9,711,0
+"Feb 09, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,24,919,11,836,1
+09-Feb-2025,Bangladesh,Rajshahi,Rajshahi,2600000,23,975,12,887,1
+2025-02-09,Bangladesh,Khulna,Khulna,2500000,22,1054,13,959,1
+09/02/2025,Bangladesh,Sylhet,Sylhet,1900000,31,1165,14,1060,1
+"Feb 09, 2025",Bangladesh,Barishal,Barishal,1200000,34,1253,15,1140,1
+2025-02-10,Bangladesh,Dhaka,Dhaka,10200000,12,611,7,556,0
+10/02/2025,Bangladesh,Dhaka,Gazipur,5200000,20,692,8,630,1
+"Feb 10, 2025",Bangladesh,Chattogram,Chattogram,5000000,21,802,10,730,1
+10-Feb-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,24,943,11,858,1
+2025-02-10,Bangladesh,Rajshahi,Rajshahi,2600000,23,998,12,908,1
+10/02/2025,Bangladesh,Khulna,Khulna,2500000,26,1080,13,983,1
+"Feb 10, 2025",Bangladesh,Sylhet,Sylhet,1900000,33,1198,14,1090,1
+10-Feb-2025,Bangladesh,Barishal,Barishal,1200000,28,1281,15,1166,1
+11/02/2025,Bangladesh,Dhaka,Dhaka,10200000,14,625,8,569,0
+"Feb 11, 2025",Bangladesh,Dhaka,Gazipur,5200000,19,711,9,647,0
+11-Feb-2025,Bangladesh,Chattogram,Chattogram,5000000,25,827,10,753,1
+2025-02-11,Bangladesh,Chattogram,Cox's Bazar,2800000,21,964,12,877,1
+11/02/2025,Bangladesh,Rajshahi,Rajshahi,2600000,29,1027,12,935,1
+"Feb 11, 2025",Bangladesh,Khulna,Khulna,2500000,27,1107,13,1007,1
+11-Feb-2025,Bangladesh,Sylhet,Sylhet,1900000,33,1231,15,1120,1
+2025-02-11,Bangladesh,Barishal,Barishal,1200000,33,1314,16,1196,1
+"Feb 12, 2025",Bangladesh,Dhaka,Dhaka,10200000,21,646,8,588,1
+12-Feb-2025,Bangladesh,Dhaka,Gazipur,5200000,22,733,9,667,1
+2025-02-12,Bangladesh,Chattogram,Chattogram,5000000,21,848,10,772,1
+12/02/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,25,989,12,900,1
+"Feb 12, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,30,1057,13,962,1
+12-Feb-2025,Bangladesh,Khulna,Khulna,2500000,32,1139,14,1036,1
+2025-02-12,Bangladesh,Sylhet,Sylhet,1900000,31,1262,15,1148,1
+12/02/2025,Bangladesh,Barishal,Barishal,1200000,33,1347,16,1226,1
+13-Feb-2025,Bangladesh,Dhaka,Dhaka,10200000,22,668,8,608,1
+2025-02-13,Bangladesh,Dhaka,Gazipur,5200000,21,754,9,686,1
+13/02/2025,Bangladesh,Chattogram,Chattogram,5000000,24,872,10,794,1
+"Feb 13, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,27,1016,12,925,1
+13-Feb-2025,Bangladesh,Rajshahi,Rajshahi,2600000,30,1087,13,989,1
+2025-02-13,Bangladesh,Khulna,Khulna,2500000,34,1173,14,1067,1
+13/02/2025,Bangladesh,Sylhet,Sylhet,1900000,33,1295,16,1178,1
+"Feb 13, 2025",Bangladesh,Barishal,Barishal,1200000,35,1382,17,1258,1
+2025-02-14,Bangladesh,Dhaka,Dhaka,10200000,23,691,8,629,1
+14/02/2025,Bangladesh,Dhaka,Gazipur,5200000,26,780,9,710,1
+"Feb 14, 2025",Bangladesh,Chattogram,Chattogram,5000000,24,896,11,815,1
+14-Feb-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,28,1044,13,950,1
+2025-02-14,Bangladesh,Rajshahi,Rajshahi,2600000,28,1115,13,1015,1
+14/02/2025,Bangladesh,Khulna,Khulna,2500000,32,1205,14,1097,1
+"Feb 14, 2025",Bangladesh,Sylhet,Sylhet,1900000,36,1331,16,1211,1
+14-Feb-2025,Bangladesh,Barishal,Barishal,1200000,41,1423,17,1295,1
+01-Jan-2025,Bangladesh,Barishal,Barishal,1200000,27,27,0,25,1
+"Jan 10, 2025",Bangladesh,Dhaka,Gazipur,5200000,9,172,2,157,0
+"Jan 26, 2025",Bangladesh,Dhaka,Gazipur,5200000,24,447,5,407,1

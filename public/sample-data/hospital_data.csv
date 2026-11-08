@@ -1,0 +1,543 @@
+﻿report_date,country,division,district,population,hospital_name,hospital_type,hospital_capacity,icu_capacity,occupied_beds,icu_patients
+01/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,49,2
+"Jan 01, 2025",Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,61,4
+01-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,67,5
+2025-01-01,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,88,7
+01/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,96,7
+"Jan 01, 2025",Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,113,10
+01-Jan-2025,Bangladesh,Chattogram,Cox's Bazar ,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,115,11
+2025-01-01,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,147,14
+01/01/2025,Bangladesh, Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,151,5
+"Jan 01, 2025",Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,165,7
+01-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,198,9
+2025-01-01,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,228,12
+"Jan 02, 2025",Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,51,3
+02-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,66,5
+2025-01-02,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,75,5
+02/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,95,8
+"Jan 02, 2025",Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,97,8
+02-Jan-2025,Bangladesh,Chattogram,Chattogram ,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,125,11
+2025-01-02,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,127,12
+02/01/2025,Bangladesh, Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,144,5
+"Jan 02, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,157,6
+02-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,175,8
+2025-01-02,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,207,11
+02/01/2025,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,228,13
+03-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,62,4
+2025-01-03,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,78,6
+03/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,80,6
+"Jan 03, 2025",Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,98,9
+03-Jan-2025,Bangladesh,Chattogram,Chattogram ,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,104,9
+2025-01-03,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,130,12
+03/01/2025,Bangladesh, Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,134,4
+"Jan 03, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,155,6
+03-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,166,7
+2025-01-03,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,187,9
+03/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,208,12
+"Jan 03, 2025",Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,122,15
+2025-01-04,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,66,4
+04/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,85,6
+"Jan 04, 2025",Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,87,7
+04-Jan-2025,Bangladesh,Dhaka,Gazipur ,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,106,10
+2025-01-04,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,110,10
+04/01/2025,Bangladesh, Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,131,4
+"Jan 04, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,142,5
+04-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,160,8
+2025-01-04,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,165,8
+04/01/2025,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,193,11
+"Jan 04, 2025",Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,107,14
+04-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,131,17
+05/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,66,5
+"Jan 05, 2025",Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,81,7
+05-Jan-2025,Bangladesh,Dhaka,Gazipur ,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,93,8
+2025-01-05,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,106,10
+05/01/2025,Bangladesh, Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,119,4
+"Jan 05, 2025",Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,143,6
+05-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,141,6
+2025-01-05,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,173,9
+05/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,170,10
+"Jan 05, 2025",Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,101,12
+05-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,114,15
+2025-01-05,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,141,18
+"Jan 06, 2025",Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,,12,73,5
+06-Jan-2025,Bangladesh,Dhaka,Dhaka ,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,95,8
+2025-01-06,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,94,8
+06/01/2025,Bangladesh, Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,118,4
+"Jan 06, 2025",Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,118,5
+06-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,147,7
+2025-01-06,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,152,7
+06/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,180,10
+"Jan 06, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,94,11
+06-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,104,14
+2025-01-06,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,125,17
+06/01/2025,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,142,7
+07-Jan-2025,Bangladesh,Dhaka,Dhaka ,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,76,6
+2025-01-07,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,94,9
+07/01/2025,Bangladesh, Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,96,3
+"Jan 07, 2025",Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,120,5
+07-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,121,5
+2025-01-07,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,155,8
+07/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,151,8
+"Jan 07, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,95,11
+07-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,96,12
+2025-01-07,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,110,15
+07/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,136,6
+"Jan 07, 2025",Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,161,8
+2025-01-08,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,79,7
+08/01/2025,Bangladesh, Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,102,3
+"Jan 08, 2025",Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,100,4
+08-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,124,6
+2025-01-08,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,130,6
+08/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,163,9
+"Jan 08, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,83,9
+08-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,97,13
+2025-01-08,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,109,13
+08/01/2025,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,122,5
+"Jan 08, 2025",Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,139,8
+08-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,167,10
+09/01/2025,Bangladesh, Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,80,2
+"Jan 09, 2025",Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,108,4
+09-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,106,5
+2025-01-09,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,132,7
+09/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,136,7
+"Jan 09, 2025",Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,77,10
+09-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,86,11
+2025-01-09,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,101,14
+09/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,108,5
+"Jan 09, 2025",Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,135,7
+09-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,149,9
+2025-01-09,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,181,12
+"Jan 10, 2025",Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,83,3
+10-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,114,5
+2025-01-10,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,108,5
+10/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,135,8
+"Jan 10, 2025",Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,73,8
+10-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,88,11
+2025-01-10,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,88,12
+10/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,114,5
+"Jan 10, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,119,6
+10-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,143,8
+2025-01-10,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,159,11
+10/01/2025,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,185,13
+11-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,86,4
+2025-01-11,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,120,6
+11/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,not recorded,120,6
+"Jan 11, 2025",Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,67,9
+11-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,74,9
+2025-01-11,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,97,12
+11/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,94,4
+"Jan 11, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,122,6
+11-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,129,7
+2025-01-11,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,152,9
+11/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,165,12
+"Jan 11, 2025",Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,197,15
+2025-01-12,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,94,4
+12/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,120,6
+"Jan 12, 2025",Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,62,7
+12-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,82,10
+2025-01-12,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,86,10
+12/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,97,4
+"Jan 12, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,107,5
+12-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,131,8
+2025-01-12,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,128,8
+12/01/2025,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,156,11
+"Jan 12, 2025",Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,183,14
+12-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,207,17
+13/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,98,5
+"Jan 13, 2025",Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,60,7
+13-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,65,8
+2025-01-13,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,82,10
+13/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,90,4
+"Jan 13, 2025",Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,108,6
+13-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,116,6
+2025-01-13,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,139,9
+13/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,134,10
+"Jan 13, 2025",Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,162,12
+13-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,190,15
+2025-01-13,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,211,18
+"Jan 14, 2025",Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,46,5
+14-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,70,8
+2025-01-14,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,70,8
+14/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,86,4
+"Jan 14, 2025",Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,92,5
+14-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,115,7
+2025-01-14,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,120,7
+14/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,140,10
+"Jan 14, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,150,11
+14-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,172,14
+2025-01-14,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,200,17
+14/01/2025,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,223,7
+15-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,52,6
+2025-01-15,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,69,9
+15/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,71,3
+"Jan 15, 2025",Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,92,5
+15-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,99,5
+2025-01-15,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,125,8
+15/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,123,8
+"Jan 15, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,149,11
+15-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,149,12
+2025-01-15,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,181,15
+15/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,210,6
+"Jan 15, 2025",Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,228,8
+2025-01-16,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,55,7
+16/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,73,3
+"Jan 16, 2025",Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,77,4
+16-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,97,6
+2025-01-16,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,-3,6
+16/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,128,9
+"Jan 16, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,125,9
+16-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,157,13
+2025-01-16,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,165,13
+16/01/2025,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,181,5
+"Jan 16, 2025",Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,214,8
+16-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,123,10
+17/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,67,2
+"Jan 17, 2025",Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,79,4
+17-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,85,5
+2025-01-17,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,100,7
+17/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,111,7
+"Jan 17, 2025",Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,136,10
+17-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,141,11
+2025-01-17,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,160,14
+17/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,171,5
+"Jan 17, 2025",Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,194,7
+17-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,111,9
+2025-01-17,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,125,12
+"Jan 18, 2025",Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,61,3
+18-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,89,5
+2025-01-18,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,89,5
+18/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,113,8
+"Jan 18, 2025",Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,109,8
+18-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,135,11
+2025-01-18,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,138,12
+18/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,172,5
+"Jan 18, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,177,6
+18-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,102,8
+2025-01-18,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,114,11
+18/01/2025,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,140,13
+19-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,66,4
+2025-01-19,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,92,6
+19/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,92,6
+"Jan 19, 2025",Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,115,9
+19-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,125,9
+2025-01-19,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,145,12
+19/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,151,4
+"Jan 19, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,176,6
+19-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,87,7
+2025-01-19,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,111,9
+19/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,126,12
+"Jan 19, 2025",Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,145,15
+2025-01-20,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,77,4
+20/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,92,6
+"Jan 20, 2025",Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,94,7
+20-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,121,10
+2025-01-20,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,126,10
+20/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,149,4
+"Jan 20, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,156,
+20-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,91,8
+2025-01-20,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,97,8
+20/01/2025,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,120,11
+"Jan 20, 2025",Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,135,14
+20-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,155,17
+21/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,76,5
+"Jan 21, 2025",Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,98,7
+21-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,99,8
+2025-01-21,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,131,10
+21/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,132,4
+"Jan 21, 2025",Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,162,6
+21-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,76,6
+2025-01-21,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,96,9
+21/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,101,10
+"Jan 21, 2025",Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,119,12
+21-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,144,15
+2025-01-21,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,169,18
+"Jan 22, 2025",Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,77,5
+22-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,102,8
+2025-01-22,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,105,8
+22/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,132,4
+"Jan 22, 2025",Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,140,5
+22-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,77,7
+2025-01-22,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,83,7
+22/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,107,10
+"Jan 22, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,111,11
+22-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,135,14
+2025-01-22,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,157,17
+22/01/2025,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,179,7
+23-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,87,6
+2025-01-23,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,115,9
+23/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,114,3
+"Jan 23, 2025",Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,141,5
+23-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,72,5
+2025-01-23,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,87,8
+23/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,95,8
+"Jan 23, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,109,11
+23-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,117,12
+2025-01-23,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,143,15
+23/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,164,6
+"Jan 23, 2025",Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,181,8
+2025-01-24,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,93,7
+24/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,110,3
+"Jan 24, 2025",Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,119,4
+24-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,74,6
+2025-01-24,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,74,6
+24/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,99,9
+"Jan 24, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,98,9
+24-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,115,13
+2025-01-24,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,127,13
+24/01/2025,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,146,5
+"Jan 24, 2025",Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,166,8
+24-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,200,10
+25/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,92,2
+"Jan 25, 2025",Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,122,4
+25-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,63,5
+2025-01-25,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,76,7
+25/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,85,7
+"Jan 25, 2025",Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,100,10
+25-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,108,11
+2025-01-25,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,131,14
+25/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,136,5
+"Jan 25, 2025",Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,160,7
+25-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,174,9
+2025-01-25,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,205,12
+"Jan 26, 2025",Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,98,3
+26-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,59,5
+2025-01-26,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,69,5
+26/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,81,8
+"Jan 26, 2025",Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,90,8
+26-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,106,11
+2025-01-26,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,106,12
+26/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,131,5
+"Jan 26, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,142,6
+26-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,161,8
+2025-01-26,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,185,11
+26/01/2025,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,210,13
+27-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,50,4
+2025-01-27,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,62,6
+27/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,73,6
+"Jan 27, 2025",Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,87,9
+27-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,92,9
+2025-01-27,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,112,12
+27/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,115,4
+"Jan 27, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,139,6
+27-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,151,7
+2025-01-27,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,165,9
+27/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,201,12
+"Jan 27, 2025",Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,224,15
+2025-01-28,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,53,4
+28/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,75,6
+"Jan 28, 2025",Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,76,7
+28-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,96,10
+2025-01-28,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,93,10
+28/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,117,4
+"Jan 28, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,128,5
+28-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,149,8
+2025-01-28,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,149,8
+28/01/2025,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,176,11
+"Jan 28, 2025",Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,206,14
+28-Jan-2025,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,237,17
+29/01/2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,58,5
+"Jan 29, 2025",Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,73,7
+29-Jan-2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,79,8
+2025-01-29,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,99,10
+29/01/2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,105,4
+"Jan 29, 2025",Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,126,6
+29-Jan-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,126,6
+2025-01-29,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,159,9
+29/01/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,163,10
+"Jan 29, 2025",Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,181,12
+29-Jan-2025,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,211,15
+2025-01-29,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,119,18
+"Jan 30, 2025",Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,62,5
+30-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,81,8
+2025-01-30,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,86,8
+30/01/2025,Bangladesh,Dhaka,Gazipur,5200000, Gazipur Synthetic Medical Center 2 ,Private,255,19,107,4
+"Jan 30, 2025",Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,114,5
+30-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,128,7
+2025-01-30,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,137,7
+30/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,164,10
+"Jan 30, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,165,11
+30-Jan-2025,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,196,14
+2025-01-30,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,110,17
+30/01/2025,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,123,7
+31-Jan-2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,68,6
+2025-01-31,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,86,9
+31/01/2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,94,3
+"Jan 31, 2025",Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,106,5
+31-Jan-2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,111,5
+2025-01-31,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,140,8
+31/01/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,148,8
+"Jan 31, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,171,11
+31-Jan-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,178,12
+2025-01-31,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,96,15
+31/01/2025,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,113,6
+"Jan 31, 2025",Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,133,8
+2025-02-01,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,67,7
+01/02/2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,88,3
+"Feb 01, 2025",Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,93,4
+01-Feb-2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,120,6
+2025-02-01,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,119,6
+01/02/2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,146,9
+"Feb 01, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,151,9
+01-Feb-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,178,13
+2025-02-01,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,89,13
+01/02/2025,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,110,5
+"Feb 01, 2025",Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,132,8
+01-Feb-2025,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,145,10
+02/02/2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,69,2
+"Feb 02, 2025",Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,101,4
+02-Feb-2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,94,5
+2025-02-02,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,119,7
+02/02/2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,122,7
+"Feb 02, 2025",Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,157,10
+02-Feb-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,158,11
+2025-02-02,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,88,14
+02/02/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,92,5
+"Feb 02, 2025",Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,112,7
+02-Feb-2025,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,131,9
+2025-02-02,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,155,12
+"Feb 03, 2025",Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,77,3
+03-Feb-2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,97,5
+2025-02-03,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,100,5
+03/02/2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,127,8
+"Feb 03, 2025",Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,129,8
+03-Feb-2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,156,11
+2025-02-03,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,78,12
+03/02/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,96,5
+"Feb 03, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,105,6
+03-Feb-2025,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,123,8
+2025-02-03,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,139,11
+03/02/2025,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,167,13
+04-Feb-2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,79,4
+2025-02-04,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,101,6
+04/02/2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,108,6
+"Feb 04, 2025",Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,137,9
+04-Feb-2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,134,9
+2025-02-04,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,81,12
+04/02/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,86,4
+"Feb 04, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,110,6
+04-Feb-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,109,7
+2025-02-04,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,136,9
+04/02/2025,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,153,12
+"Feb 04, 2025",Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,175,15
+2025-02-05,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,83,4
+05/02/2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,108,6
+"Feb 05, 2025",Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,113,7
+05-Feb-2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,138,10
+2025-02-05,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,68,10
+05/02/2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,90,4
+"Feb 05, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,90,5
+05-Feb-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,114,8
+2025-02-05,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,121,8
+05/02/2025,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,143,11
+"Feb 05, 2025",Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,165,14
+05-Feb-2025,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,183,17
+06/02/2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,95,5
+"Feb 06, 2025",Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,117,7
+06-Feb-2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,113,8
+2025-02-06,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,70,10
+06/02/2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,77,4
+"Feb 06, 2025",Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,99,6
+06-Feb-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,94,6
+2025-02-06,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,125,9
+06/02/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,126,10
+"Feb 06, 2025",Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,144,12
+06-Feb-2025,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,169,15
+2025-02-06,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,193,18
+"Feb 07, 2025",Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,99,5
+07-Feb-2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,115,8
+2025-02-07,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,56,8
+07/02/2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,74,4
+"Feb 07, 2025",Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,76,5
+07-Feb-2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,106,7
+2025-02-07,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,103,7
+07/02/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,132,10
+"Feb 07, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,132,11
+07-Feb-2025,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,159,14
+2025-02-07,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,179,17
+07/02/2025,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,199,7
+08-Feb-2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,99,6
+2025-02-08,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,57,9
+08/02/2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,64,3
+"Feb 08, 2025",Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,88,5
+08-Feb-2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,87,5
+2025-02-08,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,112,8
+08/02/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,110,8
+"Feb 08, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,138,11
+08-Feb-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,135,12
+2025-02-08,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,159,15
+08/02/2025,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,188,6
+"Feb 08, 2025",Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,209,8
+2025-02-09,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,51,7
+09/02/2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,67,3
+"Feb 09, 2025",Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,73,4
+09-Feb-2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,88,6
+2025-02-09,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,93,6
+09/02/2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,109,9
+"Feb 09, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,122,9
+09-Feb-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,141,13
+2025-02-09,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,149,13
+09/02/2025,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,172,5
+"Feb 09, 2025",Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,200,8
+09-Feb-2025,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,228,10
+10/02/2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,49,2
+"Feb 10, 2025",Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,73,4
+10-Feb-2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,80,5
+2025-02-10,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,95,7
+10/02/2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,97,7
+"Feb 10, 2025",Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,115,10
+10-Feb-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,128,11
+2025-02-10,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,151,14
+10/02/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,156,5
+"Feb 10, 2025",Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,173,7
+10-Feb-2025,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,210,9
+2025-02-10,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,230,12
+"Feb 11, 2025",Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,54,3
+11-Feb-2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,75,5
+2025-02-11,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,80,5
+11/02/2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,95,8
+"Feb 11, 2025",Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,101,8
+11-Feb-2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,124,11
+2025-02-11,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,134,12
+11/02/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,155,5
+"Feb 11, 2025",Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,163,6
+11-Feb-2025,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,183,8
+2025-02-11,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,212,11
+11/02/2025,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,115,13
+12-Feb-2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,59,4
+2025-02-12,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,84,6
+12/02/2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,82,6
+"Feb 12, 2025",Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,106,9
+12-Feb-2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,111,9
+2025-02-12,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,135,12
+12/02/2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,140,4
+"Feb 12, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,158,6
+12-Feb-2025,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,165,7
+2025-02-12,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,194,9
+12/02/2025,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,106,12
+"Feb 12, 2025",Bangladesh,Barishal,Barishal ,1200000,Barishal Synthetic Medical Center 1,Public,425,33,131,15
+2025-02-13,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,69,4
+13/02/2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,83,6
+"Feb 13, 2025",Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,85,7
+13-Feb-2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,116,10
+2025-02-13,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,111,10
+13/02/2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,136,4
+"Feb 13, 2025",Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,146,5
+13-Feb-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,170,8
+2025-02-13,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,170,8
+13/02/2025,Bangladesh,Khulna,Khulna,2500000,Khulna Synthetic Medical Center 1,Public,355,27,96,11
+"Feb 13, 2025",Bangladesh,Sylhet,Sylhet ,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,120,14
+13-Feb-2025,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,141,17
+14/02/2025,Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 1,Public,180,12,70,5
+"Feb 14, 2025",Bangladesh,Dhaka,Dhaka,10200000,Dhaka Synthetic Medical Center 2,Private,220,16,89,7
+14-Feb-2025,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 1,Public,215,15,89,8
+2025-02-14,Bangladesh,Dhaka,Gazipur,5200000,Gazipur Synthetic Medical Center 2,Private,255,19,112,10
+14/02/2025,Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 1,Public,250,18,117,4
+"Feb 14, 2025",Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,149,6
+14-Feb-2025,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 1,Public,285,21,153,6
+2025-02-14,Bangladesh,Chattogram,Cox's Bazar,2800000,Cox's Bazar Synthetic Medical Center 2,Private,325,25,181,9
+14/02/2025,Bangladesh,Rajshahi,Rajshahi,2600000,Rajshahi Synthetic Medical Center 1,Public,320,24,88,10
+"Feb 14, 2025",Bangladesh,Khulna,Khulna ,2500000,Khulna Synthetic Medical Center 1,Public,355,27,111,12
+14-Feb-2025,Bangladesh,Sylhet,Sylhet,1900000,Sylhet Synthetic Medical Center 1,Public,390,30,124,15
+2025-02-14,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,151,18
+2025-01-01,Bangladesh,Barishal,Barishal,1200000,Barishal Synthetic Medical Center 1,Public,425,33,228,12
+"Jan 17, 2025",Bangladesh,Chattogram,Chattogram,5000000,Chattogram Synthetic Medical Center 2,Private,290,22,136,10
